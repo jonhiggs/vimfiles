@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/opt/chef/cookbooks/bluepill/recipes'
+let g:netrw_dirhist_2='/opt/chef/cookbooks/ruby/providers'
+let g:netrw_dirhist_3='/opt/chef/cookbooks/linkchecker/recipes'
+let g:netrw_dirhist_4='/opt/chef/cookbooks/capistrano'
+let g:netrw_dirhist_5='/opt/chef/cookbooks/capistrano/recipes'
+let g:netrw_dirhist_6='/home/jon/.fluxbox'
+let g:netrw_dirhist_7='/Users/jon/bin'
