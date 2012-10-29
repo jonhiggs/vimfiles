@@ -70,5 +70,8 @@ autocmd FileType sh              setlocal autoindent ts=2 sw=2 sts=2 expandtab
 autocmd FileType ruby,eruby,yaml setlocal autoindent ts=2 sw=2 sts=2 expandtab
 autocmd FileType python          setlocal autoindent ts=4 sw=4 sts=4
 
+" configure chef
+map <c-b> :ChefFindAnySplit<CR>
+
 " automatically reload vimrc when it's saved
 au BufWritePost .vimrc so ~/.vimrc

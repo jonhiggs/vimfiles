@@ -10,3 +10,15 @@
 [submodule "vim/bundle/nerdtree"]
 	path = vim/bundle/nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
+[submodule "vim/bundle/trailertrash"]
+	path = vim/bundle/trailertrash
+	url = https://github.com/csexton/trailertrash.vim.git
+[submodule "vim/bundle/rails"]
+	path = vim/bundle/rails
+	url = https://github.com/tpope/vim-rails.git
+[submodule "vim-chef"]
+	path = vim-chef
+	url = https://github.com/t9md/vim-chef.git
+[submodule "vim/bundle/chef"]
+	path = vim/bundle/chef
+	url = https://github.com/t9md/vim-chef.git
