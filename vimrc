@@ -49,9 +49,6 @@ map Y y$
 " disable ex mode
 map Q <Esc>
 
-abc = oaiejfose
-oeijfsoeijfa = osejfo
-
 " Highlight the todo lines.
 syntax match TODO /[#"\/;]\ TODO.*/
 highlight TODO ctermfg=red guifg=red cterm=bold gui=bold
