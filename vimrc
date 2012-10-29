@@ -14,6 +14,7 @@ set laststatus=2
 set colorcolumn=80
 set nocursorline         " disabled because it makes keyboard repeat too slow.
 set t_Co=256             " enable 256 colors
+set scrolloff=8          " start scrolling before reaching the bottom.
 
 set background=dark
 colorscheme ir_black
