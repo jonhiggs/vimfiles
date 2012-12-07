@@ -66,6 +66,10 @@ let g:ctrlp_prompt_mappings = {
 \ 'AcceptSelection("t")': ['<ct>', '<c-m>'],
 \ }
 
+" configure snippets dir
+"let g:snippets_dir = "~/.vim/bundle/snipmate-snippets/snippets+~/.vim/snippets"
+let g:snippets_dir = "~/.vim/bundle/snipmate-snippets/snippets"
+
 " Configure standard settings for file types.
 autocmd FileType sh              setlocal autoindent ts=2 sw=2 sts=2 expandtab
 autocmd FileType ruby,eruby,yaml setlocal autoindent ts=2 sw=2 sts=2 expandtab
