@@ -24,16 +24,18 @@ colorscheme ir_black
 call pathogen#infect()
 
 " Configure the colorcolumn
-highlight   ColorColumn   guibg=#3C111A
-highlight   NonText       guifg=#3C3C3C   ctermfg=12
-highlight   NonText       guibg=#000000
-highlight   SpecialKey    guibg=#111111
-highlight   CursorLine    guibg=#111111
-highlight   Cursor        guibg=#00FD39   guifg=#000000
+highlight   ColorColumn           guibg=#3C111A
+highlight   NonText               guifg=#3C3C3C   ctermfg=12
+highlight   NonText               guibg=#000000
+highlight   SpecialKey            guibg=#111111
+highlight   CursorLine            guibg=#111111
+highlight   Cursor                guibg=#00FD39   guifg=#000000
 
 " Configure the font to terminus
 set guifont=Terminus\ Medium:h12
 set noantialias
+
+" Turn on TrailerTrash and set the colors.
 
 " Remove gvim gui noise
 set guioptions-=m
