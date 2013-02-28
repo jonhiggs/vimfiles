@@ -35,8 +35,6 @@ highlight   Cursor                guibg=#00FD39   guifg=#000000
 set guifont=Terminus\ Medium:h12
 set noantialias
 
-" Turn on TrailerTrash and set the colors.
-
 " Remove gvim gui noise
 set guioptions-=m
 set guioptions-=T
