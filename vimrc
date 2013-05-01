@@ -64,6 +64,9 @@ let g:ctrlp_prompt_mappings = {
 \ 'AcceptSelection("t")': ['<ct>', '<c-m>'],
 \ }
 
+" configure ag
+let g:agprg="/usr/local/bin/ag --column"
+
 " configure snippets dir
 "let g:snippets_dir = "~/.vim/bundle/snipmate-snippets/snippets+~/.vim/snippets"
 let g:snippets_dir = "~/.vim/bundle/snipmate-snippets/snippets"
