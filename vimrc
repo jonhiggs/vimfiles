@@ -75,6 +75,7 @@ let g:snippets_dir = "~/.vim/bundle/snipmate-snippets/snippets"
 autocmd FileType sh              setlocal autoindent ts=2 sw=2 sts=2 expandtab
 autocmd FileType ruby,eruby,yaml setlocal autoindent ts=2 sw=2 sts=2 expandtab
 autocmd FileType python          setlocal autoindent ts=4 sw=4 sts=4
+autocmd FileType make            setlocal autoindent ts=4 sw=4 sts=4 noexpandtab list
 
 " configure chef
 map <c-b> :ChefFindAnySplit<CR>
