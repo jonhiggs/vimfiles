@@ -52,6 +52,7 @@ map Q <Esc>
 
 " Highlight the todo lines.
 syntax match TODO /[#"\/;]\ TODO.*/
+syntax match TODO /[#"\/;]\ NOTE.*/
 highlight TODO ctermfg=red guifg=red cterm=bold gui=bold
 
 " Setup filetype for weird extensions.
