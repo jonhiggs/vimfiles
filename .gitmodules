@@ -37,3 +37,6 @@
 [submodule "vim/bundle/ag"]
 	path = vim/bundle/ag
 	url = https://github.com/rking/ag.vim
+[submodule "vim/bundle/notes"]
+	path = vim/bundle/notes
+	url = https://github.com/xolox/vim-notes.git
