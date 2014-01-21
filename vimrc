@@ -64,9 +64,10 @@ let g:ctrlp_prompt_mappings = {
 \ 'AcceptSelection("t")': ['<ct>', '<c-m>'],
 \ }
 
-" configure ag
+" configure ag - The Silver Searcher
 let g:agprg="/usr/local/bin/ag --column"
-map <c-a> :Ag 
+map <c-S> :Ag
+
 " configure notes
 :let g:notes_suffix = '.txt'
 
