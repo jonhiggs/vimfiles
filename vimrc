@@ -42,7 +42,7 @@ set guioptions-=l
 set guioptions-=r
 set guioptions-=b
 
-" Configure the invisible charactors
+" Configure the invisible characters
 set listchars=tab:▸\ ,eol:\ 
 
 " make Y behave like other capitals
@@ -58,7 +58,7 @@ syntax match TODO /[#"\/;]\ TODO.*/
 syntax match TODO /[#"\/;]\ NOTE.*/
 highlight TODO ctermfg=red guifg=red cterm=bold gui=bold
 
-" Setup filetype for weird extensions.
+" Setup file type for weird extensions.
 au! BufRead,BufNewFile *.pill setfiletype ruby
 
 " configure ctrlp
