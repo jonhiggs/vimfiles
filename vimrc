@@ -50,6 +50,9 @@ map Y y$
 " disable ex mode
 map Q <Esc>
 
+" Enable spellcheck.
+set spell spelllang=en_us
+
 " Highlight the todo lines.
 syntax match TODO /[#"\/;]\ TODO.*/
 syntax match TODO /[#"\/;]\ NOTE.*/
