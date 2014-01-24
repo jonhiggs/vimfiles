@@ -87,7 +87,6 @@ map <c-S> :Ag
 :let g:notes_suffix = '.txt'
 
 " configure snippets dir
-"let g:snippets_dir = "~/.vim/bundle/snipmate-snippets/snippets+~/.vim/snippets"
 let g:snippets_dir = "~/.vim/bundle/snipmate-snippets/snippets"
 
 " Configure standard settings for file types.
