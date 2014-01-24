@@ -64,6 +64,9 @@ set complete+=t         " tags
 set complete+=i         " included files
 set complete+=k         " dictionaries
 
+" fix last typo with first suggested substitution.
+map f [s1z=``
+
 " Highlight the TODO lines.
 syntax match TODO /[#"\/;]\ TODO.*/
 syntax match TODO /[#"\/;]\ NOTE.*/
