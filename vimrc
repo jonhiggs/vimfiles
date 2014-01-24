@@ -67,6 +67,15 @@ set complete+=k         " dictionaries
 " fix last typo with first suggested substitution.
 map f [s1z=``
 
+" SOME SHORTCUTS I'M GOING TO FORGET.
+"
+"     [s            go to last spelling mistake.
+"     1z=           substitute word for first suggested word.
+"     `]            move to the last insert point.
+"     ``            go back to whence you came.
+"
+
+
 " Highlight the TODO lines.
 syntax match TODO /[#"\/;]\ TODO.*/
 syntax match TODO /[#"\/;]\ NOTE.*/
