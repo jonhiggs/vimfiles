@@ -89,8 +89,10 @@ hi UnwantedTrailerTrash guibg=red ctermbg=red
 " Configure snippets dir
 let g:snippets_dir = "~/.vim/bundle/snipmate-snippets/snippets"
 
-" Setup file type for weird extensions.
-au! BufRead,BufNewFile *.pill    setfiletype ruby
+" Setup file type for unsupported extensions.
+au! BufRead,BufNewFile *.markdown set filetype=markdown
+au! BufRead,BufNewFile *.md       set filetype=markdown
+au! BufRead,BufNewFile *.pill     set filetype=ruby
 
 " Configure standard settings for file types.
 autocmd FileType json            setlocal autoindent ts=2 sw=2 sts=2 nospell
