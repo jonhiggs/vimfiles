@@ -69,24 +69,24 @@ syntax match TODO /[#"\/;]\ TODO.*/
 syntax match TODO /[#"\/;]\ NOTE.*/
 highlight TODO ctermfg=red guifg=red cterm=bold gui=bold
 
-" configure ctrlp
+" Configure ctrlp
 let g:ctrlp_map = '<c-t>'
 let g:ctrlp_prompt_mappings = {
 \ 'AcceptSelection("e")': [],
 \ 'AcceptSelection("t")': ['<ct>', '<c-m>'],
 \ }
 
-" configure ag - The Silver Searcher
+" Configure ag - The Silver Searcher
 let g:agprg="/usr/local/bin/ag --column"
 map <c-S> :Ag
 
-" configure notes
 " Configure TrailerTrash
 hi UnwantedTrailerTrash guibg=red ctermbg=red
 
+" Configure notes
 :let g:notes_suffix = '.txt'
 
-" configure snippets dir
+" Configure snippets dir
 let g:snippets_dir = "~/.vim/bundle/snipmate-snippets/snippets"
 
 " Setup file type for weird extensions.
