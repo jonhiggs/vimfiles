@@ -90,11 +90,12 @@ let g:snippets_dir = "~/.vim/bundle/snipmate-snippets/snippets"
 au! BufRead,BufNewFile *.pill    setfiletype ruby
 
 " Configure standard settings for file types.
-autocmd FileType sh              setlocal autoindent ts=2 sw=2 sts=2 expandtab
-autocmd FileType ruby,eruby,yaml setlocal autoindent ts=2 sw=2 sts=2 expandtab
-autocmd FileType python          setlocal autoindent ts=4 sw=4 sts=4
+autocmd FileType json            setlocal autoindent ts=2 sw=2 sts=2 nospell
 autocmd FileType make            setlocal autoindent ts=4 sw=4 sts=4 noexpandtab list
 autocmd FileType markdown        setlocal autoindent ts=4 sw=4 sts=4
+autocmd FileType python          setlocal autoindent ts=4 sw=4 sts=4
+autocmd FileType ruby,eruby,yaml setlocal autoindent ts=2 sw=2 sts=2 expandtab
+autocmd FileType sh              setlocal autoindent ts=2 sw=2 sts=2 expandtab
 
 " configure chef
 map <c-b> :ChefFindAnySplit<CR>
