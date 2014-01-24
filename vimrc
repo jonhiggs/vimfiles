@@ -81,6 +81,9 @@ let g:agprg="/usr/local/bin/ag --column"
 map <c-S> :Ag
 
 " configure notes
+" Configure TrailerTrash
+hi UnwantedTrailerTrash guibg=red ctermbg=red
+
 :let g:notes_suffix = '.txt'
 
 " configure snippets dir
