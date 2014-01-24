@@ -50,10 +50,21 @@ map Y y$
 " disable ex mode
 map Q <Esc>
 
-" Enable spellcheck.
-set spell spelllang=en_us
+" Enable Spell Checking
+set spell
+set spelllang=en_gb
+set encoding=utf-8
+set spellfile=~/Repos/dotfiles/dictionary/custom-dictionary.utf-8.add
+set dict=~/Repos/dotfiles/dictionary/custom-dictionary.utf-8.add
+set dict+=~/Repos/dotfiles/dictionary/en_gb-words.txt
+set complete=.          " current buffer
+set complete+=w         " buffers in other windows
+set complete+=b         " other loaded buffers
+set complete+=t         " tags
+set complete+=i         " included files
+set complete+=k         " dictionaries
 
-" Highlight the todo lines.
+" Highlight the TODO lines.
 syntax match TODO /[#"\/;]\ TODO.*/
 syntax match TODO /[#"\/;]\ NOTE.*/
 highlight TODO ctermfg=red guifg=red cterm=bold gui=bold
