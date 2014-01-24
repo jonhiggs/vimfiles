@@ -69,9 +69,6 @@ syntax match TODO /[#"\/;]\ TODO.*/
 syntax match TODO /[#"\/;]\ NOTE.*/
 highlight TODO ctermfg=red guifg=red cterm=bold gui=bold
 
-" Setup file type for weird extensions.
-au! BufRead,BufNewFile *.pill setfiletype ruby
-
 " configure ctrlp
 let g:ctrlp_map = '<c-t>'
 let g:ctrlp_prompt_mappings = {
@@ -88,6 +85,9 @@ map <c-S> :Ag
 
 " configure snippets dir
 let g:snippets_dir = "~/.vim/bundle/snipmate-snippets/snippets"
+
+" Setup file type for weird extensions.
+au! BufRead,BufNewFile *.pill    setfiletype ruby
 
 " Configure standard settings for file types.
 autocmd FileType sh              setlocal autoindent ts=2 sw=2 sts=2 expandtab
