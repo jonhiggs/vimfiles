@@ -35,7 +35,7 @@ highlight   Cursor                guibg=#00FD39   guifg=#000000
 set guifont=Terminus\ Medium:h12
 set noantialias
 
-" Remove gvim gui noise
+" Remove gVim GUI noise
 set guioptions-=m
 set guioptions-=T
 set guioptions-=l
