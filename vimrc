@@ -104,6 +104,3 @@ autocmd FileType sh              setlocal autoindent ts=2 sw=2 sts=2 expandtab
 
 " configure chef
 map <c-b> :ChefFindAnySplit<CR>
-
-" automatically reload vimrc when it's saved
-au BufWritePost .vimrc so ~/.vimrc
