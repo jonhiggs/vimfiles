@@ -109,7 +109,7 @@ au! BufRead,BufNewFile *.pill     set filetype=ruby
 " Configure standard settings for file types.
 autocmd FileType json            setlocal autoindent ts=2 sw=2 sts=2 nospell
 autocmd FileType make            setlocal autoindent ts=4 sw=4 sts=4 noexpandtab list
-autocmd FileType markdown        setlocal autoindent ts=4 sw=4 sts=4
+autocmd FileType markdown        setlocal autoindent ts=4 sw=4 sts=4 tw=79
 autocmd FileType python          setlocal autoindent ts=4 sw=4 sts=4
 autocmd FileType ruby,eruby,yaml setlocal autoindent ts=2 sw=2 sts=2 expandtab
 autocmd FileType sh              setlocal autoindent ts=2 sw=2 sts=2 expandtab
