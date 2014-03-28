@@ -65,14 +65,17 @@ set complete+=i         " included files
 set complete+=k         " dictionaries
 
 " fix last typo with first suggested substitution.
-map f [s1z=``
+map Z [s1z=``
+" fix current word with first spelling suggestion.
+map z 1z=
 
 " SOME SHORTCUTS I'M GOING TO FORGET.
 "
-"     [s            go to last spelling mistake.
 "     1z=           substitute word for first suggested word.
+"     [s            go to last spelling mistake.
 "     `]            move to the last insert point.
 "     ``            go back to whence you came.
+"     zg            the word is good.
 "
 
 
