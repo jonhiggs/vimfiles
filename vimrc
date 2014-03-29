@@ -38,7 +38,7 @@ highlight   SpecialKey            guibg=#111111
 highlight   TabLine               ctermfg=242     ctermbg=234
 highlight   TabLineFill           ctermfg=234
 highlight   TabLineSel            ctermfg=15      ctermbg=25
-highlight   UnwantedTrailerTrash  guibg=red       ctermbg=52  
+highlight   UnwantedTrailerTrash  guibg=red       ctermbg=52
 
 " Configure the font to terminus
 set guifont=Terminus\ Medium:h12
