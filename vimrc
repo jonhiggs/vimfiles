@@ -20,6 +20,9 @@ set nofoldenable
 set background=dark
 colorscheme ir_black
 
+" Set pwd to the current file.
+set autochdir
+
 " Load Pathogen
 call pathogen#infect()
 
