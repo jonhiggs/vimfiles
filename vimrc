@@ -25,11 +25,12 @@ call pathogen#infect()
 
 " Configure the colorcolumn
 highlight   ColorColumn           guibg=#3C111A
-highlight   NonText               guifg=#3C3C3C   ctermfg=12
-highlight   NonText               guibg=#000000
-highlight   SpecialKey            guibg=#111111
-highlight   CursorLine            guibg=#111111
 highlight   Cursor                guibg=#00FD39   guifg=#000000
+highlight   CursorLine            guibg=#111111
+highlight   NonText               guibg=#000000
+highlight   NonText               guifg=#3C3C3C   ctermfg=12
+highlight   SignColumn            guibg=none      ctermbg=none      " GitGutter
+highlight   SpecialKey            guibg=#111111
 
 " Configure the font to terminus
 set guifont=Terminus\ Medium:h12
