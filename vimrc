@@ -100,6 +100,8 @@ if executable('ag')
   let g:ctrlp_user_command = 'ag %s -l --nocolor -g ""'
 endif
 
+" Configure tig
+map <C-G> :!tig <CR><CR>
 
 " Configure TrailerTrash
 hi UnwantedTrailerTrash guibg=red ctermbg=red
