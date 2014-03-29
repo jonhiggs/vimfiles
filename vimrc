@@ -51,7 +51,7 @@ map Y y$
 map Q <Esc>
 
 " Enable Spell Checking
-set spell
+set nospell
 set spelllang=en_gb
 set encoding=utf-8
 set spellfile=~/Repos/dotfiles/dictionary/custom-dictionary.utf-8.add
