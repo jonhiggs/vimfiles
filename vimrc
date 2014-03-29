@@ -105,9 +105,6 @@ endif
 " Configure tig
 map <C-G> :!tig <CR><CR>
 
-" Configure TrailerTrash
-hi UnwantedTrailerTrash guibg=red ctermbg=red
-
 " Configure notes
 :let g:notes_suffix = '.txt'
 
