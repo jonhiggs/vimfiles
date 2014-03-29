@@ -24,13 +24,18 @@ colorscheme ir_black
 call pathogen#infect()
 
 " Configure the colorcolumn
-highlight   ColorColumn           guibg=#3C111A
+highlight   ColorColumn           guibg=#3C111A   ctermbg=52
+highlight   Comment               ctermbg=232     ctermfg=237
 highlight   Cursor                guibg=#00FD39   guifg=#000000
 highlight   CursorLine            guibg=#111111
-highlight   NonText               guibg=#000000
+highlight   LineNr                ctermbg=232     ctermfg=237
 highlight   NonText               guifg=#3C3C3C   ctermfg=12
 highlight   SignColumn            guibg=none      ctermbg=none      " GitGutter
 highlight   SpecialKey            guibg=#111111
+highlight   TabLine               ctermfg=242     ctermbg=234
+highlight   TabLineFill           ctermfg=234
+highlight   TabLineSel            ctermfg=15      ctermbg=25
+highlight   UnwantedTrailerTrash  guibg=red       ctermbg=52  
 
 " Configure the font to terminus
 set guifont=Terminus\ Medium:h12
