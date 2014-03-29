@@ -87,12 +87,6 @@ map z 1z=
 "     zg            the word is good.
 "
 
-
-" Highlight the TODO lines.
-syntax match TODO /[#"\/;]\ TODO.*/
-syntax match TODO /[#"\/;]\ NOTE.*/
-highlight TODO ctermfg=red guifg=red cterm=bold gui=bold
-
 " Configure ctrlp
 let g:ctrlp_map = '<c-t>'
 let g:ctrlp_prompt_mappings = {
