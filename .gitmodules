@@ -34,6 +34,3 @@
 [submodule "vim/bundle/gitgutter"]
 	path = vim/bundle/gitgutter
 	url = git://github.com/airblade/vim-gitgutter.git
-[submodule "vim/bundle/conque"]
-	path = vim/bundle/conque
-	url = https://github.com/vim-scripts/Conque-Shell.git
