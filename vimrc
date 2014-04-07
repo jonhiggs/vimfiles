@@ -59,6 +59,10 @@ map Y y$
 " disable ex mode
 map Q <Esc>
 
+" map for next and previous tabs
+map <C-n> gt
+map <C-p> gT
+
 " Enable Spell Checking
 set nospell
 set spelllang=en_gb
