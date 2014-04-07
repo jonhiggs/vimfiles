@@ -1,4 +1,5 @@
 syntax on
+set backspace=indent,eol,start        " allow backspace to delete before insert point.
 set ts=2
 set sw=2
 set expandtab
