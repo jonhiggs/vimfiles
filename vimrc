@@ -41,7 +41,7 @@ highlight   TabLineSel            ctermfg=15      ctermbg=25
 highlight   UnwantedTrailerTrash  guibg=red       ctermbg=52
 
 " Configure the font to terminus
-set guifont=Terminus\ Medium:h12
+set guifont=Terminus\ \(TTF\):h12
 set noantialias
 
 " Remove gVim GUI noise
