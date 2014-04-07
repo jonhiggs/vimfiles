@@ -109,12 +109,6 @@ endif
 " Configure tig
 map <C-G> :!tig <CR><CR>
 
-" Configure notes
-:let g:notes_suffix = '.txt'
-
-" Configure snippets dir
-let g:snippets_dir = "~/.vim/bundle/snipmate-snippets/snippets"
-
 " Setup file type for unsupported extensions.
 au! BufRead,BufNewFile *.markdown set filetype=markdown
 au! BufRead,BufNewFile *.md       set filetype=markdown
