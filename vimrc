@@ -33,7 +33,7 @@ highlight   Cursor                guibg=#00FD39   guifg=#000000
 highlight   CursorLine            guibg=#111111
 highlight   LineNr                ctermbg=232     ctermfg=237
 highlight   NonText               guifg=#3C3C3C   ctermfg=12
-highlight   SignColumn            guibg=none      ctermbg=none      " GitGutter
+highlight   SignColumn            guibg=black     ctermbg=none      " GitGutter
 highlight   SpecialKey            guibg=#111111
 highlight   TabLine               ctermfg=242     ctermbg=234
 highlight   TabLineFill           ctermfg=234
