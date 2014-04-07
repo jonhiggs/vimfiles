@@ -1,22 +1,22 @@
 syntax on
 set backspace=indent,eol,start        " allow backspace to delete before insert point.
-set ts=2
-set sw=2
-set expandtab
-set nu
-set mouse=a
-set modeline
-set visualbell
-set ruler
 set clipboard=unnamed
-set showtabline=2
-set nowrap
-set laststatus=2
 set colorcolumn=80
-set nocursorline         " disabled because it makes keyboard repeat too slow.
-set t_Co=256             " enable 256 colors
-set scrolloff=8          " start scrolling before reaching the bottom.
+set expandtab
+set laststatus=2
+set modeline                          " make sure the modeline is used if it exists.
+set mouse=a
+set nocursorline                      " disabled because it makes keyboard repeat too slow.
 set nofoldenable
+set nowrap
+set nu
+set ruler
+set scrolloff=8                       " start scrolling before reaching the bottom.
+set showtabline=2
+set sw=2
+set t_Co=256                          " enable 256 colors
+set ts=2
+set visualbell
 
 set background=dark
 colorscheme ir_black
