@@ -108,7 +108,7 @@ if executable('ag')
 endif
 
 " Configure tig
-map <C-G> :! EDITOR="/usr/local/bin/vim --remote-tab" /usr/local/bin/tig <CR><CR>
+map <C-G> :! EDITOR="/usr/local/bin/vim --remote-tab" /usr/local/bin/tig status <CR><CR>
 
 " Setup file type for unsupported extensions.
 au! BufRead,BufNewFile *.markdown set filetype=markdown
