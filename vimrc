@@ -90,10 +90,10 @@ let g:ctrlp_prompt_mappings = {
 \ 'AcceptSelection("e")': [],
 \ 'AcceptSelection("t")': ['<ct>', '<c-m>'],
 \ }
+
 " Configure airline
 let g:airline_powerline_fonts = 1
 let g:airline#extensions#tabline#enabled = 1
-
 
 " Configure ag - The Silver Searcher
 if executable('ag')
