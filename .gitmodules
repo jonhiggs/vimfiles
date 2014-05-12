@@ -25,9 +25,6 @@
 [submodule "vim/bundle/addon-mw-utils"]
 	path = vim/bundle/addon-mw-utils
 	url = https://github.com/MarcWeber/vim-addon-mw-utils.git
-[submodule "vim/bundle/ag"]
-	path = vim/bundle/ag
-	url = https://github.com/rking/ag.vim
 [submodule "vim/bundle/gitgutter"]
 	path = vim/bundle/gitgutter
 	url = git://github.com/airblade/vim-gitgutter.git
