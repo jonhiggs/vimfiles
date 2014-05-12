@@ -88,6 +88,16 @@ map z 1z=
 let g:airline_powerline_fonts = 1
 let g:airline#extensions#tabline#enabled = 1
 
+" Configure unite
+let g:unite_enable_start_insert = 1
+let g:unite_winheight = 10
+let g:unite_split_rule = 'botright'
+
+let g:unite_source_grep_command = 'ag'
+let g:unite_source_grep_default_opts =
+\ '--line-numbers --nocolor --nogroup --hidden --ignore ' .
+\  '''.hg'' --ignore ''.svn'' --ignore ''.git'' --ignore ''.bzr'''
+let g:unite_source_grep_recursive_opt = ''
 
 " Configure tig
 map <C-G> :! EDITOR="/usr/local/bin/vim --remote-tab" /usr/local/bin/tig status <CR><CR>
