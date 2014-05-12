@@ -84,13 +84,6 @@ map z 1z=
 "     zg            the word is good.
 "
 
-" Configure ctrlp
-let g:ctrlp_map = '<c-t>'
-let g:ctrlp_prompt_mappings = {
-\ 'AcceptSelection("e")': [],
-\ 'AcceptSelection("t")': ['<ct>', '<c-m>'],
-\ }
-
 " Configure airline
 let g:airline_powerline_fonts = 1
 let g:airline#extensions#tabline#enabled = 1
