@@ -88,13 +88,6 @@ map z 1z=
 let g:airline_powerline_fonts = 1
 let g:airline#extensions#tabline#enabled = 1
 
-" Configure ag - The Silver Searcher
-if executable('ag')
-  let g:agprg="/usr/local/bin/ag --column"
-  map <c-S> :Ag
-  set grepprg=ag\ --nogroup\ --nocolor
-  let g:ctrlp_user_command = 'ag %s -l --nocolor -g ""'
-endif
 
 " Configure tig
 map <C-G> :! EDITOR="/usr/local/bin/vim --remote-tab" /usr/local/bin/tig status <CR><CR>
