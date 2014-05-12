@@ -1,3 +1,14 @@
+" Configure the font to terminus
+set guifont=Terminus\ \(TTF\):h12
+set noantialias
+
+" Remove gVim GUI noise
+set guioptions-=m
+set guioptions-=T
+set guioptions-=l
+set guioptions-=r
+set guioptions-=b
+
 " configure navigation.
 if has("gui_gtk2")
   map <C-n> :tabnext<CR>

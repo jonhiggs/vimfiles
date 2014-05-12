@@ -41,19 +41,8 @@ highlight   TabLineFill           ctermfg=234
 highlight   TabLineSel            ctermfg=15      ctermbg=25
 highlight   UnwantedTrailerTrash  guibg=red       ctermbg=52
 
-" Configure the font to terminus
-set guifont=Terminus\ \(TTF\):h12
-set noantialias
-
-" Remove gVim GUI noise
-set guioptions-=m
-set guioptions-=T
-set guioptions-=l
-set guioptions-=r
-set guioptions-=b
-
 " Configure the invisible characters
-set listchars=tab:▸\ ,eol:\ 
+set listchars=tab:▸\ ,eol:$
 
 " make Y behave like other capitals
 map Y y$
