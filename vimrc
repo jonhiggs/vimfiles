@@ -64,6 +64,9 @@ map Q <Esc>
 map <C-n> gt
 map <C-p> gT
 
+" add a horizontal rule
+map 3 :exec ":normal i".repeat("#",79)<CR>
+
 " Enable Spell Checking
 set nospell
 set spelllang=en_gb
