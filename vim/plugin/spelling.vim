@@ -1,3 +1,4 @@
+set spell
 set spelllang=en_au
 set encoding=utf-8
 

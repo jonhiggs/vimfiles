@@ -14,6 +14,5 @@ set ruler
 set scrolloff=8                 " start scrolling before reaching the bottom.
 set shiftwidth=2
 set showtabline=2
-set spell
 set tabstop=2
 set visualbell
