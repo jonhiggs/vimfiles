@@ -5,8 +5,13 @@ filetype off                  " required
 set rtp+=~/.vim/bundle/Vundle.vim
 
 call vundle#begin()
+
+Plugin 'airblade/vim-gitgutter'
+Plugin 'csexton/trailertrash.vim'
 Plugin 'gmarik/Vundle.vim'
 Plugin 'kien/ctrlp.vim'
+Plugin 'Lokaltog/vim-powerline'
+
 call vundle#end()
 
 filetype plugin indent on
