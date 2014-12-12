@@ -1,2 +1,3 @@
-vim/bundle/
 *.sw?
+.netrwhist
+vim/bundle/
