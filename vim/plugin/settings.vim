@@ -1,5 +1,4 @@
 set autochdir                   " change to directory of current file.
-set background=dark
 set backspace=indent,eol,start  " allow backspace to delete before insert point.
 set colorcolumn=80
 set expandtab
@@ -17,6 +16,5 @@ set scrolloff=8                 " start scrolling before reaching the bottom.
 set shiftwidth=2
 set showtabline=2
 set spell
-set t_Co=256                    " enable 256 colours.
 set tabstop=2
 set visualbell
