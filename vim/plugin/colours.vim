@@ -21,3 +21,8 @@ highlight   TabLineFill           ctermfg=234     ctermbg=234       cterm=NONE
 highlight   TabLineSel            ctermfg=15      ctermbg=25        cterm=NONE
 highlight   UnwantedTrailerTrash  guibg=red       ctermbg=52
 highlight   VertSplit             guibg=bg        ctermbg=none
+highlight   GitGutterAddDefault   guibg=bg
+highlight   GitGutterChangeDefault guibg=bg
+highlight   GitGutterChangeDeleteDefault guibg=bg
+highlight   GitGutterChangeLineDefault guibg=bg
+highlight   GitGutterDeleteDefault guibg=bg

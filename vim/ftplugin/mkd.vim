@@ -7,7 +7,10 @@ setlocal wrap
 setlocal columns=79       " wrap at 79 columns regardless of size of buffer.
 
 if has('gui_running')
+  set guioptions=''
+  set showtabline=0
   set laststatus=0
+  nmap <F12> :VimroomToggle<CR>
 else
   setlocal foldcolumn=12
 endif
