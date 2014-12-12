@@ -1,6 +1,7 @@
 set background=dark
 set t_Co=256                    " enable 256 colours.
 colorscheme ir_black
+syntax on
 
 highlight   ColorColumn           guibg=#3C111A   ctermbg=234
 highlight   Comment               ctermbg=232     ctermfg=245
