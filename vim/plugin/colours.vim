@@ -7,7 +7,8 @@ highlight   ColorColumn           guibg=#3C111A   ctermbg=234
 highlight   Comment               ctermbg=232     ctermfg=245
 highlight   Cursor                guibg=#00FD39   guifg=#000000
 highlight   CursorLine            guibg=#111111
-highlight   FoldColumn            ctermbg=none
+highlight   FoldColumn            ctermbg=none    ctermfg=232
+highlight   Folded                ctermbg=none    ctermfg=232
 highlight   LineNr                ctermbg=232     ctermfg=237
 highlight   NonText               guifg=#3C3C3C   ctermfg=12
 highlight   Pmenu                 ctermbg=234
