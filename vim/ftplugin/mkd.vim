@@ -5,6 +5,7 @@ setlocal linebreak
 setlocal nonumber
 setlocal wrap
 setlocal columns=79       " wrap at 79 columns regardless of size of buffer.
+setlocal colorcolumn=0
 
 if has('gui_running')
   set guioptions=''
