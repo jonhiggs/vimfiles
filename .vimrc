@@ -11,7 +11,6 @@ Plugin 'csexton/trailertrash.vim'
 Plugin 'gmarik/Vundle.vim'
 Plugin 'kien/ctrlp.vim'
 Plugin 'Lokaltog/vim-powerline'
-Plugin 'mikewest/vimroom'
 
 call vundle#end()
 

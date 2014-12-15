@@ -8,8 +8,8 @@ map <C-p> :tabprevious<CR>
 " Redraw Screen
 map <F5> :GitGutterAll<CR>:redraw!<CR>:so ~/.vim/plugin/colours.vim<CR>
 
-" Enable Vimroom
-map <F12> :VimroomToggle<CR>
+" Declutter
+map <F12> :DeclutterToggle<CR>
 
 " Disable EX mode
 map Q <Esc>
