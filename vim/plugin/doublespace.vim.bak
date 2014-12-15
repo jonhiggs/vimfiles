@@ -1,0 +1,6 @@
+" this  should get marked as bad.
+
+hi link UnwantedDoubleSpace Normal
+
+au BufEnter    * exe "2match" "SpellCap" "/[^ ]  [^ ]/"
+au InsertLeave * exe "2match" "SpellCap" "/[^ ]  [^ ]/"
