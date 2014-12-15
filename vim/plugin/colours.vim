@@ -3,27 +3,27 @@ set t_Co=256                    " enable 256 colours.
 colorscheme ir_black
 syntax on
 
-highlight   ColorColumn           guibg=#3C111A   ctermbg=234
-highlight   Comment               ctermbg=232     ctermfg=245
-highlight   Cursor                guibg=#00FD39   guifg=#000000
-highlight   CursorLine            guibg=#111111
-highlight   FoldColumn            ctermbg=none    ctermfg=232
-highlight   Folded                ctermbg=none    ctermfg=232
-highlight   LineNr                ctermbg=232     ctermfg=237
-highlight   NonText               guifg=#3C3C3C   ctermfg=12
-highlight   Pmenu                 ctermbg=234
-highlight   PmenuSel              ctermfg=15      ctermbg=25
-highlight   Search                ctermbg=3       ctermfg=0         cterm=NONE
-highlight   SignColumn            guibg=bg        ctermbg=none      " GitGutter
-highlight   SpellBad              cterm=none      ctermbg=52        ctermfg=253   guibg=red
-highlight   SpellCap              cterm=none      ctermbg=19        ctermfg=253   guibg=blue
-highlight   TabLine               ctermfg=242     ctermbg=234       cterm=NONE
-highlight   TabLineFill           ctermfg=234     ctermbg=234       cterm=NONE
-highlight   TabLineSel            ctermfg=15      ctermbg=25        cterm=NONE
-highlight   UnwantedTrailerTrash  guibg=red       ctermbg=52
-highlight   VertSplit             guibg=bg        ctermbg=none
-highlight   GitGutterAddDefault   guibg=bg
-highlight   GitGutterChangeDefault guibg=bg
-highlight   GitGutterChangeDeleteDefault guibg=bg
-highlight   GitGutterChangeLineDefault guibg=bg
-highlight   GitGutterDeleteDefault guibg=bg
+highlight   ColorColumn                       ctermbg=234                guibg=#3C111A
+highlight   Comment                           ctermbg=232   ctermfg=245
+highlight   Cursor                                                       guibg=#00FD39  guifg=#000000
+highlight   CursorLine                                                   guibg=#111111
+highlight   FoldColumn                        ctermbg=NONE  ctermfg=232
+highlight   Folded                            ctermbg=NONE  ctermfg=232
+highlight   GitGutterAddDefault               ctermbg=NONE               guibg=bg
+highlight   GitGutterChangeDefault            ctermbg=NONE               guibg=bg
+highlight   GitGutterChangeDeleteDefault      ctermbg=NONE               guibg=bg
+highlight   GitGutterChangeLineDefault        ctermbg=NONE               guibg=bg
+highlight   GitGutterDeleteDefault            ctermbg=NONE               guibg=bg
+highlight   LineNr                            ctermbg=232   ctermfg=237
+highlight   NonText                                         ctermfg=12                  guifg=#3C3C3C
+highlight   Pmenu                             ctermbg=234
+highlight   PmenuSel                          ctermbg=25    ctermfg=15
+highlight   Search                cterm=NONE  ctermbg=3     ctermfg=0
+highlight   SignColumn                        ctermbg=NONE               guibg=bg                    " GitGutter
+highlight   SpellBad              cterm=NONE  ctermbg=52    ctermfg=253  guibg=red
+highlight   SpellCap              cterm=NONE  ctermbg=19    ctermfg=253  guibg=blue
+highlight   TabLine               cterm=NONE  ctermbg=234   ctermfg=242
+highlight   TabLineFill           cterm=NONE  ctermbg=234   ctermfg=234
+highlight   TabLineSel            cterm=NONE  ctermbg=25    ctermfg=15
+highlight   UnwantedTrailerTrash              ctermbg=52                 guibg=red
+highlight   VertSplit                         ctermbg=NONE               guibg=bg
