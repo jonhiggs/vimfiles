@@ -18,10 +18,13 @@ map Q <Esc>
 map Y y$
 
 " move between panes.
-nmap <silent> <c-k> :wincmd k<CR>
-nmap <silent> <c-j> :wincmd j<CR>
-nmap <silent> <c-h> :wincmd h<CR>
-nmap <silent> <c-l> :wincmd l<CR>
+nmap <silent> <C-k> :wincmd k<CR>
+nmap <silent> <C-j> :wincmd j<CR>
+nmap <silent> <C-h> :wincmd h<CR>
+nmap <silent> <C-l> :wincmd l<CR>
+
+" <C-h> is mapped to backspace on ML62. Add a fix in.
+nmap <silent> <Backspace> :wincmd h<CR>
 
 " fix current word with first spelling suggestion.
 map Z 1z=
