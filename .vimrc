@@ -9,9 +9,11 @@ call vundle#begin()
 Plugin 'airblade/vim-gitgutter'
 Plugin 'csexton/trailertrash.vim'
 Plugin 'gmarik/Vundle.vim'
+Plugin 'junegunn/goyo.vim'
 Plugin 'kien/ctrlp.vim'
 Plugin 'Lokaltog/vim-powerline'
 Plugin 'plasticboy/vim-markdown'
+Plugin 'reedes/vim-pencil'
 
 call vundle#end()
 
