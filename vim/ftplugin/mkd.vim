@@ -16,4 +16,3 @@ let g:vim_markdown_frontmatter=1
 PencilSoft
 
 map <buffer> <S-m> :!/Applications/Marked.app/Contents/Resources/mark %<CR><CR>
-
