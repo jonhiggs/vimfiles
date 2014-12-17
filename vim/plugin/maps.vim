@@ -6,7 +6,7 @@ map <C-n> :tabnext<CR>
 map <C-p> :tabprevious<CR>
 
 " Redraw Screen
-map <F5> :GitGutterAll<CR>:redraw!<CR>:so ~/.vim/plugin/colours.vim<CR>
+map <F5> :GitGutterAll<CR>:redraw!<CR>
 
 " Goyo
 map <F12> :Goyo<CR>:GitGutterEnable<CR><F5>
