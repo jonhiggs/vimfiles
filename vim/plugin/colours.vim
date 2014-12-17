@@ -11,7 +11,7 @@ highlight   FoldColumn                            ctermbg=NONE  ctermfg=232
 highlight   Folded                                ctermbg=NONE  ctermfg=232
 highlight   GitGutterAddDefault                   ctermbg=NONE               guibg=bg
 highlight   GitGutterChangeDefault                ctermbg=NONE               guibg=bg
-highlight   GitGutterChangeDeleteDefault          ctermbg=NONE               guibg=bg
+highlight   GitGutterChangeDeleteDefault          ctermbg=NONE  ctermfg=130  guibg=bg
 highlight   GitGutterChangeLineDefault            ctermbg=NONE               guibg=bg
 highlight   GitGutterDeleteDefault                ctermbg=NONE               guibg=bg
 highlight   LineNr                                ctermbg=232   ctermfg=237
