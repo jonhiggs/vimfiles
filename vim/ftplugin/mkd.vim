@@ -1,13 +1,10 @@
 setlocal autoindent
 setlocal colorcolumn=0
-setlocal formatoptions-=t
 setlocal linebreak
 setlocal nonumber
+setlocal shiftwidth=4
 setlocal spell
-setlocal sts=4
-setlocal sw=4
-setlocal ts=4
-setlocal tw=79
+setlocal tabstop=4
 setlocal wrap
 
 " use yaml syntax at the start of Jekyll markdown.
