@@ -11,6 +11,9 @@ map <F5> :GitGutterAll<CR>:redraw!<CR>
 " Goyo
 map <F12> :Goyo<CR>:GitGutterEnable<CR><F5>
 
+" MacDict
+map <F11> "dyiw:call MacDict(@d)<CR>
+
 " Disable EX mode
 map Q <Esc>
 
