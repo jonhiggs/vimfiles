@@ -68,7 +68,7 @@ let colors_name = "ir_black"
 " General colors
 hi ColorColumn                        guibg=#3C111A                                       ctermbg=234
 hi Cursor           guifg=black       guibg=#00FD39     gui=NONE      ctermfg=black       ctermbg=white       cterm=reverse
-hi CursorColumn     guifg=NONE        guibg=#121212     gui=NONE      ctermfg=NONE        ctermbg=NONE        cterm=BOLD
+hi CursorColumn     guifg=NONE        guibg=#121212     gui=NONE      ctermfg=NONE        ctermbg=234         cterm=BOLD
 hi CursorLine       guifg=NONE        guibg=#111111     gui=NONE      ctermfg=NONE        ctermbg=NONE        cterm=BOLD
 hi Error            guifg=NONE        guibg=NONE        gui=undercurl ctermfg=white       ctermbg=red         cterm=NONE     guisp=#FF6C60 " undercurl color
 hi ErrorMsg         guifg=white       guibg=#FF6C60     gui=BOLD      ctermfg=white       ctermbg=red         cterm=NONE
