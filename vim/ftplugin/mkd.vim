@@ -13,7 +13,5 @@ let g:vim_markdown_frontmatter=1
 PencilSoft
 map <buffer> <S-m> :!/Applications/Marked.app/Contents/Resources/mark %<CR><CR>
 
-
-" a custom todo match.
-
-syn region Todo start="\S\@<=++\|++\S\@=" end="\S\@<=++\|++\S\@=" keepend oneline
+syn region Todo start="^TODO:" end="^$"
+syn region Todo start="^FIXME:" end="$"
