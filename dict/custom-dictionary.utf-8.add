@@ -100,3 +100,7 @@ localhost
 keymaps
 Mage
 Ansible
+loopback
+repo
+golang
+virtualenv
