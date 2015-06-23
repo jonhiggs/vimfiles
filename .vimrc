@@ -6,9 +6,11 @@ set rtp+=~/.vim/bundle/Vundle.vim
 
 call vundle#begin()
 
+Plugin 'gmarik/Vundle.vim'
+
 Plugin 'airblade/vim-gitgutter'
 Plugin 'csexton/trailertrash.vim'
-Plugin 'gmarik/Vundle.vim'
+Plugin 'hdima/python-syntax'
 Plugin 'jonhiggs/MacDict.vim'
 Plugin 'jonhiggs/tabline.vim'
 Plugin 'junegunn/goyo.vim'
@@ -18,7 +20,6 @@ Plugin 'Lokaltog/vim-powerline'
 Plugin 'plasticboy/vim-markdown'
 Plugin 'reedes/vim-pencil'
 Plugin 'tpope/vim-surround'
-Plugin 'hdima/python-syntax'
 
 call vundle#end()
 
