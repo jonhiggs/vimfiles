@@ -105,3 +105,6 @@ repo
 golang
 virtualenv
 Akamai
+env
+Dockerfile
+Nagios
