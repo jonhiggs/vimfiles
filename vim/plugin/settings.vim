@@ -16,3 +16,7 @@ set shiftwidth=2
 set showtabline=2
 set tabstop=2
 set visualbell
+
+if exists(':PencilOff')
+  PencilOff
+endif

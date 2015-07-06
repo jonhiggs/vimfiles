@@ -6,8 +6,6 @@ setlocal spell
 setlocal tabstop=4
 setlocal wrap
 
-PencilOff
-
 map <buffer> <S-m> :!open -b $(osascript -e 'id of app "Marked 2"') %<CR><CR>
 
 syn region Todo start="^TODO:" end="^$"
