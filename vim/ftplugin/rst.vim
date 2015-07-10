@@ -5,6 +5,7 @@ setlocal shiftwidth=4
 setlocal spell
 setlocal tabstop=4
 setlocal wrap
+setlocal textwidth=79
 
 map <buffer> <S-m> :!open -b $(osascript -e 'id of app "Marked 2"') %<CR><CR>
 
