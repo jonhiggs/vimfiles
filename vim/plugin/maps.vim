@@ -1,21 +1,9 @@
-set pastetoggle=<F1>
-map <F2> :set hlsearch!<CR>
-
 " Tab Shortcuts
 map <C-n> :tabnext<CR>
 map <C-p> :tabprevious<CR>
 
-" Redraw Screen
-map <F5> :GitGutterAll<CR>:redraw!<CR>
-
-" Goyo
-map <F12> :Goyo<CR>:GitGutterEnable<CR><F5>
-
-" MacDict
-map <F10> "dyiw:call MacDict(@d)<CR>
-
-" Disable EX mode
-map Q <Esc>
+" gq the paragraph (Q was EX mode which I don't like or use)
+map Q gqip
 
 " Make Y behave like other capitals
 map Y y$
@@ -31,6 +19,21 @@ nmap <silent> <Backspace> :wincmd h<CR>
 
 " fix current word with first spelling suggestion.
 map Z 1z=
+
+" Setup the F Key maps.
+set pastetoggle=<F1>
+map <F2> :set hlsearch!<CR>
+map <F3> :setlocal spell! spell?<CR>
+
+" Redraw Screen
+map <F5> :GitGutterAll<CR>:redraw!<CR>
+
+" MacDict
+map <F10> "dyiw:call MacDict(@d)<CR>
+
+" Goyo
+map <F12> :Goyo<CR>:GitGutterEnable<CR><F5>
+
 
 " Horizontal Rule.
 "   c3w for example doesn't work.
