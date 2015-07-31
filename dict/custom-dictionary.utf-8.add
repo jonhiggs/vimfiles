@@ -116,3 +116,9 @@ Playbook
 Bespin
 CLI
 VPN
+RVM
+CloudFront
+ELBs
+CNAMEs
+Memcached
+Multi-AZ
