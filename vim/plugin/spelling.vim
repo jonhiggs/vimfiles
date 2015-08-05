@@ -1,4 +1,4 @@
-set spell
+set nospell
 set spelllang=en_au
 set encoding=utf-8
 
