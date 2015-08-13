@@ -1,6 +1,7 @@
 set autochdir                   " change to directory of current file.
 set backspace=indent,eol,start  " allow backspace to delete before insert point.
 set colorcolumn=80
+set clipboard=unnamed
 set expandtab
 set listchars=tab:▸\ ,eol:$     " configure the invisible characters.
 set modeline                    " make sure the modeline is used if it exists.
