@@ -145,3 +145,5 @@ VPC
 ACLs
 ModSecurity
 Splunk
+deployer
+tarball
