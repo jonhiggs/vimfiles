@@ -145,6 +145,8 @@ VPC
 ACLs
 ModSecurity
 Splunk
+deployer
+tarball
 RTFM
 UX
 stdin
