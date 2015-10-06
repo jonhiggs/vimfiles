@@ -1,3 +1,7 @@
+" Disable Ex
+map Q <Nop>
+map q: <Nop>
+
 " Tab Shortcuts
 map <C-n> :tabnext<CR>
 map <C-p> :tabprevious<CR>
