@@ -21,6 +21,7 @@ Plugin 'Lokaltog/vim-powerline'
 Plugin 'plasticboy/vim-markdown'
 Plugin 'reedes/vim-pencil'
 Plugin 'tmhedberg/SimpylFold'
+Plugin 'tpope/vim-abolish'
 Plugin 'tpope/vim-surround'
 
 call vundle#end()

@@ -1,0 +1,1 @@
+iabbrev  slef  self
