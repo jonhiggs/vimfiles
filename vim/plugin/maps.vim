@@ -1,13 +1,10 @@
-" Disable Ex
-map Q <Nop>
-map q: <Nop>
+" Disable Ex and remap Macros to Q
+nnoremap Q q
+nnoremap q <Nop>
 
 " Tab Shortcuts
 map <C-n> :tabnext<CR>
 map <C-p> :tabprevious<CR>
-
-" gq the paragraph (Q was EX mode which I don't like or use)
-map Q gqip
 
 " Make Y behave like other capitals
 map Y y$
