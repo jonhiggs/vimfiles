@@ -2,6 +2,9 @@
 nnoremap Q q
 nnoremap q <Nop>
 
+" Map qq to wrap paragraph
+nnoremap qq gqip
+
 " Tab Shortcuts
 map <C-n> :tabnext<CR>
 map <C-p> :tabprevious<CR>
