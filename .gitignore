@@ -1,4 +1,5 @@
 *.sw?
 .netrwhist
 config/bundle
+data/shada
 dict/*.spl
