@@ -8,7 +8,9 @@ def main(files=[]):
     neovim = attach('socket', path=os.environ['NVIM_LISTEN_ADDRESS'])
 
     for file in files:
-        neovim.command('tabedit {}'.format(file))
+        neovim.command('tabedit {}'.format(
+            os.path.abspath(file)
+            ))
 
 if __name__ == '__main__':
     if sys.argv.count("--help") == 1:
