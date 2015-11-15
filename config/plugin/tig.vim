@@ -1,6 +1,6 @@
 function! s:tig_status()
   cd `driller --scm-root %`
-  term tig status
+  tabnew|term tig status
 endfunction
 
 map <C-G> :TigStatus<CR><CR>
