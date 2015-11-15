@@ -1,4 +1,4 @@
 *.sw?
 .netrwhist
+config/bundle
 dict/*.spl
-vim/bundle/
