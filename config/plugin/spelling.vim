@@ -1,14 +1,13 @@
 set nospell
 set spelllang=en_au
-set encoding=utf-8
 
-if empty(glob("~/etc/vimfiles/dict/custom-dictionary.utf-8.add.spl"))
-  mkspell ~/etc/vimfiles/dict/custom-dictionary.utf-8.add
+if empty(glob("~/etc/vimfiles/data/site/spell/custom-dictionary.utf-8.add.spl"))
+  mkspell ~/etc/vimfiles/data/site/spell/custom-dictionary.utf-8.add
 endif
 
-set spellfile=~/etc/vimfiles/dict/custom-dictionary.utf-8.add
-set dict=~/etc/vimfiles/dict/custom-dictionary.utf-8.add
-set dict+=~/etc/vimfiles/dict/en_au-words.txt
+set spellfile=~/etc/vimfiles/data/site/spell/custom-dictionary.utf-8.add
+set dict=~/etc/vimfiles/data/site/spell/custom-dictionary.utf-8.add
+set dict+=~/etc/vimfiles/data/site/spell/en_au-words.txt
 set complete=.          " current buffer
 set complete+=w         " buffers in other windows
 set complete+=b         " other loaded buffers
