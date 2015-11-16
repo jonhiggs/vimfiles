@@ -8,3 +8,9 @@ Or you can look at some pretty pictures.
 
 ![Writing Prose](http://www.swamphogg.com/images/vim-setup/writing_env.png)
 
+
+## Compatibility
+
+Master is only tested against [Neovim](https://neovim.io). If you use any other Vi clone, your mileage may vary.
+
+You can checkout the last commit I made before switching to Neovim by checking out the `vim` tag.
