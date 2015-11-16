@@ -11,9 +11,8 @@ setlocal wrap
 let g:vim_markdown_frontmatter=1
 
 PencilSoft
-
-" FIXME: this is broken still
 map <buffer> <S-m> :!open -b $(osascript -e 'id of app "Marked 2"') %<CR><CR>
 
+" FIXME: this is broken still
 syn region Todo start="^TODO:" end="^$"
 syn region Todo start="^FIXME:" end="$"
