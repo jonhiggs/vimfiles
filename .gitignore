@@ -2,4 +2,4 @@
 .netrwhist
 config/bundle
 data/shada
-dict/*.spl
+data/site/spell/*.spl
