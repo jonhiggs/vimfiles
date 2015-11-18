@@ -1,8 +1,12 @@
+iabbrev neccesary    necessary
 iabbrev neccesery    necessary
 iabbrev neccisty     necessity
+iabbrev necesarry    necessary
 iabbrev nessacerry   necessary
 iabbrev nessacery    necessary
+iabbrev nessasery    necessary
 iabbrev nessicerry   necessary
+iabbrev nessocerry   necessary
 iabbrev reprosent    represent
 iabbrev seperate     separate
 iabbrev slef         self
