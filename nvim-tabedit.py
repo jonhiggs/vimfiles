@@ -3,6 +3,8 @@ import os
 import sys
 from neovim import attach
 
+# TODO: if file is already open, switch to it's tab
+
 def main(files=[]):
     neovim = attach('socket', path=os.environ['NVIM_LISTEN_ADDRESS'])
 
