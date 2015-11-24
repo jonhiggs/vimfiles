@@ -44,8 +44,9 @@ map <F12> :Goyo<CR>:GitGutterEnable<CR><F5>
 "
 
 " Readline Shortcuts
-imap <M-b> <C-O>b
-imap <M-f> <C-O>e<C-O>l
-imap <M-f> <C-O>e<C-O>l
-imap <C-a> <C-O>^
-imap <C-e> <C-O>$
+imap <M-b>  <C-O>b
+imap <M-f>  <C-O>e<C-O>l
+imap <M-f>  <C-O>e<C-O>l
+imap <C-a>  <C-O>^
+imap <C-e>  <C-O>$
+imap <M-BS> <C-O>b<C-O>dE
