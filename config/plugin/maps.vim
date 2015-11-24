@@ -50,3 +50,4 @@ imap <M-f>  <C-O>e<C-O>l
 imap <C-a>  <C-O>^
 imap <C-e>  <C-O>$
 imap <M-BS> <C-O>b<C-O>dE
+imap <C-w>  <C-O>B<C-O>dE
