@@ -42,12 +42,3 @@ map <F12> :Goyo<CR>:GitGutterEnable<CR><F5>
 "   c3w for example doesn't work.
 "map 3 :exec ":normal i".repeat("#",79)<CR>
 "
-
-" Readline Shortcuts
-imap <M-b>  <C-O>b
-imap <M-f>  <C-O>e<C-O>l
-imap <M-f>  <C-O>e<C-O>l
-imap <C-a>  <C-O>^
-imap <C-e>  <C-O>$
-imap <M-BS> <C-O>b<C-O>dE
-imap <C-w>  <C-O>B<C-O>dE
