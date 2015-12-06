@@ -157,3 +157,6 @@ Neovim
 docstrings
 docstring
 CNAME
+cron
+Readline
+Emacs
