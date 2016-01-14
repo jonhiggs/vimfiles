@@ -87,7 +87,7 @@ hi Normal           guifg=#f6f3e8     guibg=black       gui=NONE      ctermfg=NO
 hi Pmenu            guifg=#f6f3e8     guibg=#444444     gui=NONE      ctermfg=NONE        ctermbg=234         cterm=NONE
 hi PmenuSbar        guifg=black       guibg=white       gui=NONE      ctermfg=black       ctermbg=white       cterm=NONE
 hi PmenuSel         guifg=#000000     guibg=#cae682     gui=NONE      ctermfg=15          ctermbg=25          cterm=NONE
-hi Search           guifg=NONE        guibg=NONE        gui=underline ctermfg=NONE        ctermbg=3           cterm=underline
+hi Search           guifg=NONE        guibg=NONE        gui=underline ctermfg=0           ctermbg=11          cterm=underline
 hi SignColumn                         guibg=bg                                            ctermbg=NONE
 hi SpellBad                           guibg=red                       ctermfg=253         ctermbg=52          cterm=NONE
 hi SpellCap                           guibg=blue                      ctermfg=253         ctermbg=19          cterm=NONE
