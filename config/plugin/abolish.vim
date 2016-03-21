@@ -1,6 +1,5 @@
 iabbrev Cloudwatch      CloudWatch
 iabbrev cloudwatch      CloudWatch
-iabbrev infrustructure  infrastructure
 iabbrev neccesary       necessary
 iabbrev neccesery       necessary
 iabbrev neccisty        necessity
@@ -10,8 +9,8 @@ iabbrev nessacery       necessary
 iabbrev nessasery       necessary
 iabbrev nessicerry      necessary
 iabbrev nessocerry      necessary
-iabbrev reprosent       represent
-iabbrev reprosentation  representation
-iabbrev seperate        separate
-iabbrev slef            self
-iabbrev teh             the
+Abolish infrustructure                            infrastructure
+Abolish reprosent{,ation,s,ed}                    represent{}
+Abolish seperat{e,es,ed,ing,ely,ion,ions,or}      separat{}
+Abolish slef                                      self
+Abolish teh                                       the
