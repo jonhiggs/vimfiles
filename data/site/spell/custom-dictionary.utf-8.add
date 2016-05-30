@@ -181,3 +181,10 @@ Makefile
 datacentres
 yml
 Arduino
+Buildkite
+artifact
+DSL
+SQS
+OMDB
+DynamoDB
+READMEs
