@@ -188,3 +188,7 @@ SQS
 OMDB
 DynamoDB
 READMEs
+artifacts
+Kinesis
+backend
+HTTPS
