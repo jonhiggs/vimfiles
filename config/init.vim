@@ -28,6 +28,7 @@ Plugin 'rust-lang/rust.vim'
 Plugin 'tmhedberg/SimpylFold'
 Plugin 'tpope/vim-abolish'
 Plugin 'tpope/vim-surround'
+Plugin 'vim-ruby/vim-ruby'
 
 call vundle#end()
 
