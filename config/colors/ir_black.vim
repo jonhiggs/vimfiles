@@ -148,7 +148,6 @@ hi rubyControl                 guifg=#6699CC      guibg=NONE      gui=NONE      
 "hi rubyGlobalVariable          guifg=#FFCCFF      guibg=NONE      gui=NONE      ctermfg=lightblue      ctermbg=NONE      cterm=NONE  "yield
 hi rubyStringDelimiter         guifg=#336633      guibg=NONE      gui=NONE      ctermfg=lightgreen     ctermbg=NONE      cterm=NONE
 "rubyInclude
-"rubySharpBang
 "rubyAccess
 "rubyPredefinedVariable
 "rubyBoolean
@@ -159,14 +158,15 @@ hi rubyStringDelimiter         guifg=#336633      guibg=NONE      gui=NONE      
 "rubyCurlyBlock  { , , }
 
 hi link rubyClass             Keyword
-hi link rubyModule            Keyword
-hi link rubyKeyword           Keyword
-hi link rubyOperator          Operator
-hi link rubyIdentifier        Identifier
-hi link rubyInstanceVariable  Identifier
-hi link rubyGlobalVariable    Identifier
 hi link rubyClassVariable     Identifier
 hi link rubyConstant          Type
+hi link rubyGlobalVariable    Identifier
+hi link rubyIdentifier        Identifier
+hi link rubyInstanceVariable  Identifier
+hi link rubyKeyword           Keyword
+hi link rubyModule            Keyword
+hi link rubyOperator          Operator
+hi link rubySharpBang         Comment
 
 
 " Special for Java
