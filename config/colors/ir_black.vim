@@ -82,13 +82,14 @@ hi GitGutterDeleteDefault             guibg=bg                        ctermfg=1 
 hi LineNr           guifg=#3D3D3D     guibg=black       gui=NONE      ctermfg=237         ctermbg=NONE        cterm=NONE
 hi MatchParen       guifg=#f6f3e8     guibg=#857b6f     gui=BOLD      ctermfg=white       ctermbg=darkgray    cterm=NONE
 hi ModeMsg          guifg=black       guibg=#C6C5FE     gui=BOLD      ctermfg=black       ctermbg=cyan        cterm=BOLD
-hi NonText          guifg=#3C3C3C     guibg=black       gui=NONE      ctermfg=12          ctermbg=NONE        cterm=NONE
+hi NonText          guifg=#3C3C3C     guibg=black       gui=NONE      ctermfg=235         ctermbg=232         cterm=NONE
 hi Normal           guifg=#f6f3e8     guibg=black       gui=NONE      ctermfg=NONE        ctermbg=NONE        cterm=NONE
 hi Pmenu            guifg=#f6f3e8     guibg=#444444     gui=NONE      ctermfg=NONE        ctermbg=234         cterm=NONE
 hi PmenuSbar        guifg=black       guibg=white       gui=NONE      ctermfg=black       ctermbg=white       cterm=NONE
 hi PmenuSel         guifg=#000000     guibg=#cae682     gui=NONE      ctermfg=15          ctermbg=25          cterm=NONE
 hi Search           guifg=NONE        guibg=NONE        gui=underline ctermfg=0           ctermbg=11          cterm=underline
 hi SignColumn                         guibg=bg                                            ctermbg=NONE
+hi SpecialKey       guifg=#3C3C3C     guibg=black       gui=NONE      ctermfg=235         ctermbg=232         cterm=NONE
 hi SpellBad                           guibg=red                       ctermfg=253         ctermbg=52          cterm=NONE
 hi SpellCap                           guibg=blue                      ctermfg=253         ctermbg=19          cterm=NONE
 hi StatusLine       guifg=#CCCCCC     guibg=#202020     gui=italic    ctermfg=white       ctermbg=darkgray    cterm=NONE
