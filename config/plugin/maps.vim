@@ -41,4 +41,6 @@ map <F12> :Goyo<CR>:GitGutterEnable<CR><F5>
 " Horizontal Rule.
 "   c3w for example doesn't work.
 "map 3 :exec ":normal i".repeat("#",79)<CR>
-"
+
+" sudo save
+command! W w !sudo tee % > /dev/null
