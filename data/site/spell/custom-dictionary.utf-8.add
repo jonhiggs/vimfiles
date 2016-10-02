@@ -192,3 +192,8 @@ artifacts
 Kinesis
 backend
 HTTPS
+whitelisted
+CIDRs
+Route53
+ThoughtWorks
+Equinix
