@@ -15,6 +15,7 @@ Abolish archetect{,ure}                           architect{}
 Abolish infrustructure                            infrastructure
 Abolish josn                                      json
 Abolish reprosent{,ation,s,ed}                    represent{}
+Abolish sate                                      state
 Abolish seperat{e,es,ed,ing,ely,ion,ions,or}      separat{}
 Abolish slef                                      self
 Abolish teh                                       the
