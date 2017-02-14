@@ -24,9 +24,15 @@ nmap <silent> <Backspace> :wincmd h<CR>
 " fix current word with first spelling suggestion.
 map Z 1z=
 
-" Setup the F Key maps.
+" Paste
 set pastetoggle=<F1>
+autocmd InsertLeave * :set nopaste
+
+" Search Highlighting
 map <F2> :set hlsearch!<CR>
+autocmd InsertEnter * :set nohlsearch
+
+" Spelling
 map <F3> :setlocal spell! spell?<CR>
 
 " Redraw Screen
