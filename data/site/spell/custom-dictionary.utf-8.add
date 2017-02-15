@@ -17,6 +17,7 @@ AWS
 backend
 Bespin
 blog
+Bluetooth
 Buildkite
 cachability
 CIDRs
@@ -27,6 +28,7 @@ CloudFront
 CloudWatch
 CNAME
 CNAMEs
+Cognito
 config
 cron
 ctrl
@@ -49,6 +51,8 @@ ElastiCache
 ELB
 ELBs
 Emacs
+emoji
+emojis
 env
 Equinix
 extendable
@@ -61,6 +65,7 @@ footswitch
 footy
 FQDN
 frontend
+Froyo
 ftplugin
 geek
 geeking
@@ -88,6 +93,7 @@ incure
 init
 internet
 IP
+iPhone
 iTerm
 JavaScript
 Jetwire
@@ -149,6 +155,7 @@ Readline
 README
 READMEs
 rebase
+Redbubble
 Redis
 refactor
 refactoring
@@ -175,6 +182,7 @@ stdin
 STDIN/!
 submodule
 submodules
+Swype
 symlink
 symlinks
 tarball
@@ -200,15 +208,7 @@ VPN
 whitelisted
 whitespace
 WordPress
+Wunderlist
 XML
 YAML
 yml
-Redbubble
-Cognito
-Wunderlist
-Swype
-iPhone
-emojis
-emoji
-Froyo
-Bluetooth
