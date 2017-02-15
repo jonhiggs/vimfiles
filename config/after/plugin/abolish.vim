@@ -6,6 +6,7 @@ Abolish infrustructure                            infrastructure
 Abolish josn                                      json
 Abolish ne{c,cc,s,ss}{e,a,i,o}{c,s}ity            necessity
 Abolish ne{c,cc,s,ss}{e,a,i,o}{c,s}{e,a}{r,rr}y   necessary
+Abolish pl{ea,e}s{e,a}nt                          pleasant
 Abolish reprosent{,ation,s,ed}                    represent{}
 Abolish sate                                      state
 Abolish se                                        see
