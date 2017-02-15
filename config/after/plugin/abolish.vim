@@ -1,17 +1,9 @@
-iabbrev neccesary       necessary
-iabbrev neccesery       necessary
-iabbrev neccisty        necessity
-iabbrev necesarry       necessary
-iabbrev nessacerry      necessary
-iabbrev nessacery       necessary
-iabbrev nessasery       necessary
-iabbrev nessicerry      necessary
-iabbrev nessocerry      necessary
-
 Abolish ad{e,a}qu{a,i}te                          adequate
 Abolish archetect{,ure}                           architect{}
 Abolish infrustructure                            infrastructure
 Abolish josn                                      json
+Abolish ne{c,cc,s,ss}{e,a,i,o}{c,s}ity            necessity
+Abolish ne{c,cc,s,ss}{e,a,i,o}{c,s}{e,a}{r,rr}y   necessary
 Abolish reprosent{,ation,s,ed}                    represent{}
 Abolish sate                                      state
 Abolish se                                        see
