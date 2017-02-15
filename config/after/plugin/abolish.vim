@@ -1,5 +1,3 @@
-iabbrev Cloudwatch      CloudWatch
-iabbrev cloudwatch      CloudWatch
 iabbrev neccesary       necessary
 iabbrev neccesery       necessary
 iabbrev neccisty        necessity
