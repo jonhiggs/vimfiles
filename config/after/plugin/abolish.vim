@@ -1,3 +1,5 @@
+iabbrev SMSs                                      texts
+
 Abolish ad{e,a}qu{a,i}te                          adequate
 Abolish archetect{,ure}                           architect{}
 Abolish infrustructure                            infrastructure
