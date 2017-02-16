@@ -15,9 +15,6 @@ set complete+=t         " tags
 set complete+=i         " included files
 set complete+=k         " dictionaries
 
-inoremap <C-s>    <Esc>[s1z=<C-o>a
-noremap  <C-s>    [s1z=<C-o>
-
 " SOME SHORTCUTS I'M GOING TO FORGET.
 "
 "     1z=           substitute word for first suggested word.

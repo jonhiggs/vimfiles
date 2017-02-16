@@ -24,6 +24,10 @@ nmap <silent> <Backspace> :wincmd h<CR>
 " fix current word with first spelling suggestion.
 map Z 1z=
 
+" guess at the last spelling mistake and fix it
+inoremap <C-s>    <Esc>[s1z=<C-o>a
+noremap  <C-s>    [s1z=<C-o>
+
 " Paste
 set pastetoggle=<F1>
 autocmd InsertLeave * :set nopaste
