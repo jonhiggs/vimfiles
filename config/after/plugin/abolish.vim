@@ -2,7 +2,6 @@ iabbrev SMSs                                      texts
 
 Abolish ad{e,a}qu{a,i}te                          adequate
 Abolish archetect{,ure}                           architect{}
-Abolish deliberatly                               deliberately
 Abolish infrustructure                            infrastructure
 Abolish josn                                      json
 Abolish ne{c,cc,s,ss}{e,a,i,o}{c,s}ity            necessity
@@ -12,6 +11,8 @@ Abolish reprosent{,ation,s,ed}                    represent{}
 Abolish sate                                      state
 Abolish se                                        see
 Abolish seperat{e,es,ed,ing,ely,ion,ions,or}      separat{}
+Abolish sep{a,e}rat{,e}ly                         separately
 Abolish slef                                      self
 Abolish teh                                       the
 Abolish tryed                                     tried
+Abolish {deliberat,fortunat}ly                    {}ely
