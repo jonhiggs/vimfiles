@@ -2,6 +2,7 @@ iabbrev SMSs                                      texts
 
 Abolish ad{e,a}qu{a,i}te                          adequate
 Abolish archetect{,ure}                           architect{}
+Abolish deliberatly                               deliberately
 Abolish infrustructure                            infrastructure
 Abolish josn                                      json
 Abolish ne{c,cc,s,ss}{e,a,i,o}{c,s}ity            necessity
