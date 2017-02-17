@@ -7,6 +7,8 @@ Ansible
 anymore
 API
 APIs
+APK
+APKs
 app
 apps
 Arduino
@@ -15,11 +17,13 @@ artifact
 artifacts
 AWS
 backend
+barcode
 Bespin
 blog
 Bluetooth
 Buildkite
 cachability
+CardDAV
 CIDRs
 CLI
 Cloudability
@@ -56,6 +60,7 @@ emojis
 env
 Equinix
 extendable
+Facebook
 Fastmail
 Filco
 filetype
@@ -66,6 +71,7 @@ footy
 FQDN
 frontend
 Froyo
+Fruux
 ftplugin
 geek
 geeking
@@ -84,6 +90,7 @@ hippocampus
 hoons
 hostname
 hostnames
+HTC
 HTTPS
 IAM
 IMAP
@@ -102,6 +109,7 @@ JSON
 keymaps
 Kinesis
 KMS
+Kubernetes
 Layar
 LDAP
 lifecycle
@@ -147,6 +155,7 @@ PhantomJS
 Playbook
 plugin
 plugins
+PPI
 Pratik
 quarm
 Rattic
@@ -169,6 +178,7 @@ S3
 sbin
 screenshot
 screenshots
+SendGrid
 setup
 SMS
 SNI
@@ -190,12 +200,14 @@ Telstra
 templating
 ThoughtWorks
 Tig
+timeouts
 timestamp
 TMK
 tmk
 tmux
 toted
 TTL
+UI
 unparsable
 USB
 usr
@@ -205,6 +217,7 @@ virtualenv
 VNC
 VPC
 VPN
+WhatsApp
 whitelisted
 whitespace
 WordPress
@@ -212,14 +225,4 @@ Wunderlist
 XML
 YAML
 yml
-WhatsApp
 Z3c
-HTC
-UI
-PPI
-Fruux
-Facebook
-barcode
-APKs
-APK
-CardDAV
