@@ -1,3 +1,4 @@
+95th
 A.K.A.
 ACLs
 admin
@@ -27,6 +28,7 @@ CardDAV
 CIDRs
 CLI
 Cloudability
+Cloudflare
 CloudFormation
 CloudFront
 CloudWatch
@@ -68,6 +70,7 @@ Firefox
 Foodcritic
 footswitch
 footy
+forecasted
 FQDN
 frontend
 Froyo
@@ -75,6 +78,7 @@ Fruux
 ftplugin
 geek
 geeking
+GeoIP
 GitHub
 Gmail
 golang
@@ -99,9 +103,11 @@ incentisised
 incure
 init
 internet
+internet's
 IP
 iPhone
 iTerm
+Janus
 JavaScript
 Jetwire
 jQuery
@@ -131,6 +137,7 @@ Minila
 modeline
 ModSecurity
 monit
+MTA
 Multi-AZ
 MySQL
 N.B.
@@ -142,6 +149,7 @@ namespaced
 namespacing
 Neovim
 NetScaler
+nginx
 NodePing
 NPM
 NTP
@@ -175,10 +183,12 @@ Route53
 RTFM
 RVM
 S3
+Sailthru
 sbin
 screenshot
 screenshots
 SendGrid
+Sendmail
 setup
 SMS
 SNI
@@ -208,6 +218,7 @@ tmux
 toted
 TTL
 UI
+unicast
 unparsable
 USB
 usr
@@ -226,15 +237,4 @@ XML
 YAML
 yml
 Z3c
-Sendmail
-MTA
-Sailthru
-Janus
 zig-zagging
-95th
-nginx
-Cloudflare
-internet's
-unicast
-forecasted
-GeoIP
