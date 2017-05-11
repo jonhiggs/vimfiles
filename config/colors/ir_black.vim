@@ -73,7 +73,7 @@ hi CursorLine       guifg=NONE        guibg=#111111     gui=NONE      ctermfg=NO
 hi Error            guifg=NONE        guibg=NONE        gui=undercurl ctermfg=white       ctermbg=red         cterm=NONE     guisp=#FF6C60 " undercurl color
 hi ErrorMsg         guifg=white       guibg=#FF6C60     gui=BOLD      ctermfg=white       ctermbg=red         cterm=NONE
 hi FoldColumn                                                         ctermfg=0           ctermbg=NONE
-hi Folded           guifg=#a0a8b0     guibg=#384048     gui=NONE      ctermfg=0           ctermbg=NONE        cterm=NONE
+hi Folded           guifg=#a0a8b0     guibg=#384048     gui=NONE      ctermfg=8           ctermbg=234         cterm=NONE
 hi GitGutterAddDefault                guibg=bg                        ctermfg=2           ctermbg=NONE
 hi GitGutterChangeDefault             guibg=bg                        ctermfg=3           ctermbg=NONE
 hi GitGutterChangeDeleteDefault       guibg=bg                        ctermfg=130         ctermbg=NONE
