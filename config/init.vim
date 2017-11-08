@@ -10,6 +10,7 @@ Plugin 'gmarik/Vundle.vim'
 
 Plugin 'airblade/vim-gitgutter'
 Plugin 'bigbrozer/vim-nagios'
+Plugin 'cespare/vim-toml'
 Plugin 'csexton/trailertrash.vim'
 Plugin 'derekwyatt/vim-scala.git'
 Plugin 'fatih/vim-go'
