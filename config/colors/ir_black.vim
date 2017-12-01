@@ -92,6 +92,7 @@ hi SignColumn                         guibg=bg                                  
 hi SpecialKey       guifg=#3C3C3C     guibg=black       gui=NONE      ctermfg=235         ctermbg=NONE        cterm=NONE
 hi SpellBad                           guibg=red                       ctermfg=253         ctermbg=52          cterm=NONE
 hi SpellCap                           guibg=blue                      ctermfg=253         ctermbg=19          cterm=NONE
+hi SpellLocal       guifg=black       guibg=#C6C5FE     gui=NONE      ctermfg=0           ctermbg=14          cterm=NONE
 hi StatusLine       guifg=#CCCCCC     guibg=#202020     gui=italic    ctermfg=white       ctermbg=darkgray    cterm=NONE
 hi StatusLineNC     guifg=black       guibg=#202020     gui=NONE      ctermfg=blue        ctermbg=darkgray    cterm=NONE
 hi TabLine                                                            ctermfg=242         ctermbg=234         cterm=NONE
