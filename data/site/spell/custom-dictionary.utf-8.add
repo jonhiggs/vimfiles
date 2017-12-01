@@ -52,6 +52,7 @@ DHCP
 discoverability
 DNS
 Dockerfile
+Dockerised
 docstring
 docstrings
 DSL
@@ -64,6 +65,7 @@ Emacs
 emoji
 emojis
 env
+envsubst
 Equinix
 extendable
 Facebook
@@ -98,6 +100,7 @@ Grads
 gVim
 Higgs
 hippocampus
+Homebrew
 hoons
 hostname
 hostnames
@@ -159,6 +162,7 @@ namespaced
 namespacing
 Neovim
 NetScaler
+NFS
 nginx
 NodePing
 NPM
@@ -184,6 +188,7 @@ README
 READMEs
 rebase
 Redbubble
+Redbubble's
 Redis
 refactor
 refactoring
@@ -202,6 +207,7 @@ screenshots
 SD Card
 SendGrid
 Sendmail
+Serverless
 setup
 smartphone
 SMS
@@ -259,6 +265,3 @@ YAML
 yml
 Z3c
 zig-zagging
-Serverless
-NFS
-Dockerised
