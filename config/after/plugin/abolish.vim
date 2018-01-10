@@ -1,4 +1,5 @@
 iabbrev SMSs                                      texts
+iabbrev Route53                                   Route 53
 
 Abolish ad{e,a}qu{a,i}te                          adequate
 Abolish archetect{,ure}                           architect{}
