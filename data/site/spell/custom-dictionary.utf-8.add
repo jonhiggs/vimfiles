@@ -3,6 +3,7 @@
 A.K.A.
 A/B
 ACLs
+ActiveSupport
 admin
 Akamai
 Alacritty
@@ -181,6 +182,7 @@ plugins
 PPI
 Pratik
 quarm
+RabbitMQ
 Rattic
 RCA
 Readline
@@ -204,10 +206,12 @@ sbin
 screenshot
 screenshots
 SD Card
+SDK
 SendGrid
 Sendmail
 Serverless
 setup
+Shoryuken
 smartphone
 SMS
 SNI
@@ -254,6 +258,7 @@ VNC
 VPC
 VPN
 vs.
+weirded
 WhatsApp
 whitelisted
 whitespace
@@ -264,6 +269,3 @@ YAML
 yml
 Z3c
 zig-zagging
-weirded
-ActiveSupport
-ActiveSupport
