@@ -43,9 +43,12 @@ config
 cron
 ctrl
 Ctrl-P
+daemonise
 datacentre
 datacentres
 Debian
+deduplicating
+deduplication
 degredated
 deployer
 DevOps
@@ -211,6 +214,7 @@ SendGrid
 Sendmail
 Serverless
 setup
+sharded
 Shoryuken
 smartphone
 SMS
