@@ -38,5 +38,5 @@ map <F10> "dyiw:call MacDict(@d)<CR>
 " Goyo
 map <F12> :Goyo<CR>:GitGutterEnable<CR><F5>
 
-" sudo save
-command! W w !sudo tee % > /dev/null
+" Save with esc in command mode
+nnoremap <Esc> :w<CR>
