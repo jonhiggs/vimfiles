@@ -15,6 +15,16 @@ set complete+=t         " tags
 set complete+=i         " included files
 set complete+=k         " dictionaries
 
+map <F3> :setlocal spell! spell?<CR>
+
+" fix current word with first spelling suggestion.
+map Z 1z=
+
+" Fix previous misspelled word with your best guess
+inoremap <C-s>    <Esc>[s1z=<C-o>a
+noremap  <C-s>    [s1z=<C-o>
+
+
 " SOME SHORTCUTS I'M GOING TO FORGET.
 "
 "     1z=           substitute word for first suggested word.

@@ -21,13 +21,6 @@ nmap <silent> <C-l> :wincmd l<CR>
 " <C-h> is mapped to backspace on ML62. Add a fix in.
 nmap <silent> <Backspace> :wincmd h<CR>
 
-" fix current word with first spelling suggestion.
-map Z 1z=
-
-" guess at the last spelling mistake and fix it
-inoremap <C-s>    <Esc>[s1z=<C-o>a
-noremap  <C-s>    [s1z=<C-o>
-
 " Paste
 set pastetoggle=<F1>
 autocmd InsertLeave * :set nopaste
@@ -35,9 +28,6 @@ autocmd InsertLeave * :set nopaste
 " Search Highlighting
 map <F2> :set hlsearch!<CR>
 autocmd InsertEnter * :set nohlsearch
-
-" Spelling
-map <F3> :setlocal spell! spell?<CR>
 
 " Redraw Screen
 map <F5> :GitGutterAll<CR>:redraw!<CR>
