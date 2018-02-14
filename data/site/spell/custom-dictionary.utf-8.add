@@ -8,6 +8,7 @@ admin
 Akamai
 Alacritty
 AMIs
+AMQP
 Ansible
 anymore
 API/S
@@ -130,8 +131,8 @@ macOS
 MacVim
 Mage
 Makefile
-Maslow/S
 Maslow's
+Maslow/S
 Memcached
 metadata
 microcontroller/S
@@ -239,6 +240,7 @@ VNC
 VPC
 VPN
 vs.
+webhook/S
 weirded
 WhatsApp
 whitelisted
