@@ -25,6 +25,7 @@ blog
 Bluetooth
 Buildkite
 cachability
+can just/!
 CardDAV
 CIDRs
 CLI
@@ -223,6 +224,7 @@ timeout/S
 timestamp/S
 tmk
 tmux/=
+to just/!
 toted
 Traefik
 TTL
@@ -249,5 +251,6 @@ WordPress
 Wunderlist
 XML
 YAML
+you just/!
 Z3c
 zig-zagging
