@@ -4,7 +4,7 @@ iabbrev Route53                                   Route 53
 Abolish ad{e,a}qu{a,i}te                          adequate
 Abolish archetect{,ure}                           architect{}
 Abolish crutial                                   crucial
-Abolish g{au,a,u}rantee{,s}                       g{ua}rantee{}
+Abolish g{au,a,u}rantee{,s,d}                     g{ua}rantee{}
 Abolish immediatly                                immediately
 Abolish infrustructure                            infrastructure
 Abolish josn                                      json
