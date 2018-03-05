@@ -13,6 +13,9 @@ let g:vim_markdown_frontmatter=1
 PencilSoft
 map <buffer> <S-m> :!open -b $(osascript -e 'id of app "Marked 2"') %<CR><CR>
 
+" don't collapse links
+set conceallevel=0
+
 " FIXME: this is broken still
 syn region Todo start="^TODO:" end="^$"
 syn region Todo start="^FIXME:" end="$"
