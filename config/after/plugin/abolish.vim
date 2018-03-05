@@ -5,6 +5,7 @@ Abolish ad{e,a}qu{a,i}te                          adequate
 Abolish archetect{,ure}                           architect{}
 Abolish behavour                                  behaviour
 Abolish crutial                                   crucial
+Abolish deamon                                    daemon
 Abolish g{au,a,u}rantee{,s,d}                     g{ua}rantee{}
 Abolish immediatly                                immediately
 Abolish infrustructure                            infrastructure
