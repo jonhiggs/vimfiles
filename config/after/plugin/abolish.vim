@@ -3,6 +3,7 @@ iabbrev Route53                                   Route 53
 
 Abolish ad{e,a}qu{a,i}te                          adequate
 Abolish archetect{,ure}                           architect{}
+Abolish behavour                                  behaviour
 Abolish crutial                                   crucial
 Abolish g{au,a,u}rantee{,s,d}                     g{ua}rantee{}
 Abolish immediatly                                immediately
