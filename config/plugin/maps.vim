@@ -30,7 +30,7 @@ map <F2> :set hlsearch!<CR>
 autocmd InsertEnter * :set nohlsearch
 
 " Redraw Screen
-map <F5> :GitGutterAll<CR>:redraw!<CR>
+map <F5> :GitGutterAll<CR>:redraw!<CR>:echom expand('%:p')<CR>
 
 " MacDict
 map <F10> "dyiw:call MacDict(@d)<CR>
