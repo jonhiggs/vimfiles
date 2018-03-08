@@ -1,1 +1,1 @@
-map <C-G> :!${HOME}/bin/tig_selector ${PWD}<CR><CR>
+map <C-G> :!${HOME}/bin/tig_selector %<CR><CR>
