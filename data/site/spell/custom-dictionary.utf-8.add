@@ -5,6 +5,7 @@ A/B
 ACLs
 ActiveSupport
 admin
+ADR
 Akamai
 Alacritty
 AMIs
@@ -20,6 +21,7 @@ artifact/S
 AWS
 backend/S
 barcode/S
+BCC
 Bespin
 blog
 Bluetooth
@@ -38,6 +40,7 @@ CNAME/S
 Cognito
 config/S
 cron
+cruft
 ctrl
 Ctrl-P
 daemonise
@@ -139,6 +142,7 @@ metadata
 microcontroller/S
 mindedly
 Minila
+misconfigured
 modal/S
 modeline
 ModSecurity
@@ -179,12 +183,15 @@ rebase
 Redbubble
 Redbubble's
 Redis
+reentrant
 refactor
 refactoring
 refeed
 repo
 repurpose
+requeuing
 rollback
+Rollbar
 RTFM
 RVM
 S3
@@ -204,6 +211,7 @@ smartphone/S
 SMS
 SNI
 SNS
+spec/S
 Splunk
 SQS
 SSH
@@ -248,6 +256,7 @@ weirded
 WhatsApp
 whitelisted
 whitespace/S
+wiki
 WordPress
 Wunderlist
 XML
@@ -255,9 +264,3 @@ YAML
 you just/!
 Z3c
 zig-zagging
-requeuing
-SaaS
-wiki
-reentrant
-cruft
-ADR
