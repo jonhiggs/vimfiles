@@ -4,6 +4,7 @@ iabbrev Route53                                   Route 53
 Abolish ad{e,a}qu{a,i}te                          adequate
 Abolish archetect{,ure}                           architect{}
 Abolish behavour                                  behaviour
+Abolish credentail{,s}                            credential{}
 Abolish crutial                                   crucial
 Abolish deamon{,s}                                daemon{}
 Abolish g{au,a,u}rantee{,s,d}                     g{ua}rantee{}
