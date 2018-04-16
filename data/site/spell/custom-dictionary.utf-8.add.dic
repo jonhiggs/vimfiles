@@ -67,6 +67,7 @@ emoji/S
 env
 envsubst/=
 Equinix
+ERB
 extend/AS
 Facebook
 Fastmail
@@ -170,6 +171,7 @@ OpenID
 PagerDuty
 palio
 PhantomJS
+plaintext
 Playbook
 plugin/S
 PPI
