@@ -8,5 +8,7 @@ let g:gitgutter_sign_modified_removed = '▁'
 let g:gitgutter_sign_removed = '▁'
 let g:gitgutter_sign_removed_first_line = '▔'
 
-autocmd BufEnter     * GitGutterAll
-autocmd ShellCmdPost * GitGutterAll
+autocmd BufEnter         * GitGutterAll
+autocmd ShellCmdPost     * GitGutterAll
+autocmd FileChangedShell * GitGutterAll
+autocmd InsertLeave      * GitGutterAll
