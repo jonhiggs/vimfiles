@@ -170,6 +170,7 @@ OMDB
 OpenID
 PagerDuty
 palio
+passphrase
 PhantomJS
 plaintext
 Playbook
@@ -209,6 +210,7 @@ Serverless
 setup
 sharded
 Shoryuken
+Sitemap
 smartphone/S
 SMS
 SNI
@@ -267,4 +269,3 @@ YAML
 you just/!
 Z3c
 zig-zagging
-passphrase
