@@ -7,6 +7,7 @@ Abolish behavour                                  behaviour
 Abolish credentail{,s}                            credential{}
 Abolish crutial                                   crucial
 Abolish deamon{,s}                                daemon{}
+Abolish dependancy                                dependency
 Abolish g{au,a,u}rantee{,s,d}                     g{ua}rantee{}
 Abolish immediatly                                immediately
 Abolish infrustructure                            infrastructure
