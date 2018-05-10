@@ -1,3 +1,3 @@
-syn match url 'http[s]\?://[^\ ]*'  contains=@NoSpell
-syn match url 'ftp://[^ ]*'         contains=@NoSpell
-syn match url 'www\.[^\ ]*'         contains=@NoSpell
+syn match txtUrl 'http[s]\?://[^\ ]*'  contains=@NoSpell
+syn match txtUrl 'ftp://[^ ]*'         contains=@NoSpell
+syn match txtUrl 'www\.[^\ ]*'         contains=@NoSpell
