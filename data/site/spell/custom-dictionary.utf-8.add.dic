@@ -30,6 +30,7 @@ cachability
 can just/!
 CardDAV
 CIDRs
+Circonus
 CLI
 Cloudability
 Cloudflare
@@ -37,6 +38,7 @@ CloudFormation
 CloudFront
 CloudWatch
 CNAME/S
+codebase
 Cognito
 config/S
 cron
@@ -45,6 +47,7 @@ ctrl
 Ctrl-P
 daemonise
 datacentre/S
+Datadog
 Debian
 deduplicating
 deduplication
@@ -79,6 +82,7 @@ Fluentd
 Foodcritic
 footswitch/S
 footy
+for for/!
 forecasted
 FQDN
 frontend/S
@@ -176,6 +180,7 @@ plaintext
 Playbook
 plugin/S
 PPI
+proactively
 quarm
 RabbitMQ
 Rattic
@@ -241,10 +246,12 @@ to just/!
 toted
 Traefik
 TTL
+UDP
 UI
 undeploy
 unicast
 unparsable
+URL/S
 USB
 usr
 UTF-8
@@ -262,6 +269,7 @@ WhatsApp
 whitelisted
 whitespace/S
 wiki
+wildcard
 WordPress
 Wunderlist
 XML
@@ -269,10 +277,3 @@ YAML
 you just/!
 Z3c
 zig-zagging
-passphrase
-URL/S
-Sitemap
-codebase
-Datadog
-for for/!
-proactively
