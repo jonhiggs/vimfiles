@@ -26,4 +26,5 @@ Abolish teh                                       the
 Abolish tryed                                     tried
 Abolish unne{c,cc,s,ss}{e,a,i,o}{c,s}ity          unnecessity
 Abolish unne{c,cc,s,ss}{e,a,i,o}{c,s}{e,a}{r,rr}y unnecessary
+Abolish wrok{,er,s,ing}                           work{}
 Abolish {deliberat,fortunat}ly                    {}ely
