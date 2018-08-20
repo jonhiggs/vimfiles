@@ -281,3 +281,6 @@ CDN
 app's
 subdomains
 catchall
+OpsGenie
+MITM
+geolocation
