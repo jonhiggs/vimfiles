@@ -15,8 +15,6 @@ Abolish infrustructure                            infrastructure
 Abolish josn                                      json
 Abolish ne{c,cc,s,ss}{e,a,i,o}{c,s}ity            necessity
 Abolish ne{c,cc,s,ss}{e,a,i,o}{c,s}{e,a}{r,rr}y   necessary
-Abolish unne{c,cc,s,ss}{e,a,i,o}{c,s}ity          unnecessity
-Abolish unne{c,cc,s,ss}{e,a,i,o}{c,s}{e,a}{r,rr}y unnecessary
 Abolish pl{ea,e}s{e,a}nt                          pleasant
 Abolish reprosent{,ation,s,ed}                    represent{}
 Abolish sate                                      state
@@ -26,4 +24,6 @@ Abolish sep{a,e}rat{,e}ly                         separately
 Abolish slef                                      self
 Abolish teh                                       the
 Abolish tryed                                     tried
+Abolish unne{c,cc,s,ss}{e,a,i,o}{c,s}ity          unnecessity
+Abolish unne{c,cc,s,ss}{e,a,i,o}{c,s}{e,a}{r,rr}y unnecessary
 Abolish {deliberat,fortunat}ly                    {}ely
