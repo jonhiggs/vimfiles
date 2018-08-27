@@ -10,6 +10,10 @@ setlocal wrap
 " use yaml syntax at the start of Jekyll markdown.
 let g:vim_markdown_frontmatter=1
 
+" don't press my buttons
+let g:vim_markdown_auto_insert_bullets = 0
+let g:vim_markdown_new_list_item_indent = 0
+
 PencilSoft
 map <buffer> <S-m> :!open -b $(osascript -e 'id of app "Marked 2"') %<CR><CR>
 
