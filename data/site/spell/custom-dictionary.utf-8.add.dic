@@ -14,11 +14,13 @@ Ansible
 anymore
 API/S
 APK/S
+app's
 app/S
 Arduino
 arse
 artifact/S
 AWS
+AZ/S
 backend/S
 barcode/S
 BCC
@@ -29,6 +31,8 @@ Buildkite
 cachability
 can just/!
 CardDAV
+catchall
+CDN
 CIDRs
 Circonus
 CLI
@@ -43,6 +47,7 @@ Cognito
 config/S
 cron
 cruft
+CSS
 ctrl
 Ctrl-P
 daemonise
@@ -93,6 +98,7 @@ geek
 geeking
 genericity
 GeoIP
+geolocation
 GitHub
 Gmail
 Golang
@@ -109,8 +115,11 @@ hoon/S
 hostname/S
 HTC
 HTTPS
+https
+I/O
 IAM
 ID/S
+ImageMagick
 IMAP
 implement/AS
 incentisised
@@ -148,6 +157,7 @@ microcontroller/S
 mindedly
 Minila
 misconfigured
+MITM
 modal/S
 modeline
 ModSecurity
@@ -172,10 +182,12 @@ offline
 okay
 OMDB
 OpenID
+OpsGenie
 PagerDuty
 palio
 passphrase
 PhantomJS
+Pingdom
 plaintext
 Playbook
 plugin/S
@@ -223,11 +235,13 @@ SNS
 spec/S
 Splunk
 SQS
+SRE
 SSH
 SSL
 Stackdriver
 StatsD
 stdin
+subdomain/S
 submodule/S
 subscribable
 Swype
@@ -240,6 +254,7 @@ ThoughtWorks
 Tig
 timeout/S
 timestamp/S
+TLDR
 tmk
 tmux/=
 to just/!
@@ -260,16 +275,17 @@ versioned
 Vim
 Virtualenv
 VNC
-VPC
+VPC/S
 VPN
 vs.
+w/o
 webhook/S
 weirded
 WhatsApp
 whitelisted
 whitespace/S
 wiki
-wildcard
+wildcard/S
 WordPress
 Wunderlist
 XML
@@ -277,14 +293,3 @@ YAML
 you just/!
 Z3c
 zig-zagging
-CDN
-app's
-subdomains
-catchall
-OpsGenie
-MITM
-geolocation
-I/O
-CSS
-https
-TLDR
