@@ -18,7 +18,7 @@ set shiftwidth=2
 set showtabline=2
 set tabstop=2
 set visualbell
-set inccommand=nosplit          " do this cool thing https://asciinema.org/a/92207
+set inccommand=nosplit          " do live regex (https://asciinema.org/a/92207)
 
 if exists(':PencilOff')
   PencilOff
