@@ -57,7 +57,7 @@ hi SpellBad                      ctermfg=253           ctermbg=52        cterm=N
 hi SpellCap                      ctermfg=253           ctermbg=19        cterm=NONE
 hi SpellLocal                    ctermfg=0             ctermbg=14        cterm=NONE
 hi Statement                     ctermfg=lightblue     ctermbg=NONE      cterm=NONE
-hi StatusLine                    ctermfg=white         ctermbg=darkgray  cterm=NONE
+hi StatusLine                    ctermfg=242           ctermbg=234       cterm=NONE
 hi StatusLineNC                  ctermfg=blue          ctermbg=darkgray  cterm=NONE
 hi String                        ctermfg=green         ctermbg=NONE      cterm=NONE
 hi TabLine                       ctermfg=242           ctermbg=234       cterm=NONE
