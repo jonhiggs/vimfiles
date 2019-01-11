@@ -25,6 +25,7 @@ Abolish seperat{e,es,ed,ing,ely,ion,ions,or}      separat{}
 Abolish sep{a,e}rat{,e}ly                         separately
 Abolish slef                                      self
 Abolish teh                                       the
+Abolish termiante                                 terminate
 Abolish tryed                                     tried
 Abolish unne{c,cc,s,ss}{e,a,i,o}{c,s}{e,a}{r,rr}y unnecessary
 Abolish useable                                   usable         " see https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences#Dropped_e
