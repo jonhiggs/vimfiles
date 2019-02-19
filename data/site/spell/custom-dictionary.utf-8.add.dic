@@ -304,3 +304,6 @@ livenessProbe
 readinessProbe
 TLS
 ALB
+timezone
+Solr
+a.k.a.
