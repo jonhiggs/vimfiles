@@ -1,0 +1,1 @@
+let go_def_mapping_enabled=0
