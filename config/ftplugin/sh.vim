@@ -1,3 +1,5 @@
+let g:is_bash = 1
+setlocal ft=sh
 setlocal autoindent
 setlocal expandtab
 setlocal foldmethod=indent
