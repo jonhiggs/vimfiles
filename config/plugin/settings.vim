@@ -1,4 +1,3 @@
-set autochdir                   " change to directory of current file.
 set backspace=indent,eol,start  " allow backspace to delete before insert point.
 set colorcolumn=80
 set clipboard=unnamed
