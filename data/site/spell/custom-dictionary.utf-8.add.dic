@@ -318,6 +318,11 @@ PID
 shutdown
 unconfigured
 unactionable
+sidecar
+netcat
+noop
+shutdown
+PID
 preStop
 iptables
 kube_proxy
