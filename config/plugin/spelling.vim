@@ -1,13 +1,16 @@
 set nospell
 set spelllang=en_au
 
-if empty(glob("~/etc/vimfiles/data/site/spell/custom-dictionary.utf-8.add.spl"))
-  mkspell ~/etc/vimfiles/data/site/spell/custom-dictionary.utf-8.add
+" FIXME: make this work so that I'm not hardcoding paths
+"let s:path = fnamemodify('<sfile>:p', ":p:h")
+
+if empty(glob("~/.local/src/vimfiles/data/site/spell/custom-dictionary.utf-8.add.spl"))
+  mkspell ~/.local/src/vimfiles/data/site/spell/custom-dictionary.utf-8.add
 endif
 
-set spellfile=~/etc/vimfiles/data/site/spell/custom-dictionary.utf-8.add
-set dict=~/etc/vimfiles/data/site/spell/custom-dictionary.utf-8.add
-set dict+=~/etc/vimfiles/data/site/spell/en_au-words.txt
+set spellfile=~/.local/src/vimfiles/data/site/spell/custom-dictionary.utf-8.add
+set dict=~/.local/src/vimfiles/data/site/spell/custom-dictionary.utf-8.add
+set dict+=~/.local/src/vimfiles/data/site/spell/en_au-words.txt
 set complete=.          " current buffer
 set complete+=w         " buffers in other windows
 set complete+=b         " other loaded buffers

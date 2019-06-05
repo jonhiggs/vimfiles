@@ -32,3 +32,4 @@ Abolish unne{c,cc,s,ss}{e,a,i,o}{c,s}{e,a}{r,rr}y unnecessary
 Abolish useable                                   usable         " see https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences#Dropped_e
 Abolish wrok{,er,s,ing}                           work{}
 Abolish {deliberat,fortunat}ly                    {}ely
+Abolish elegent                                   elegant
