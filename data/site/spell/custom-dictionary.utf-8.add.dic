@@ -315,6 +315,11 @@ netcat
 noop
 shutdown
 PID
+sidecar
+netcat
+noop
+shutdown
+PID
 preStop
 iptables
 kube_proxy
