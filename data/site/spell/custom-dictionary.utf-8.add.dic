@@ -312,3 +312,9 @@ netcat
 noop
 shutdown
 PID
+preStop
+iptables
+kube_proxy
+etcd
+SIGKILL
+STOPSIGNAL
