@@ -315,3 +315,9 @@ PID
 shutdown
 unconfigured
 unactionable
+preStop
+iptables
+kube_proxy
+etcd
+SIGKILL
+STOPSIGNAL
