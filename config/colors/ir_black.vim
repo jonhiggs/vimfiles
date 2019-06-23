@@ -23,11 +23,6 @@ hi ErrorMsg                      ctermfg=white         ctermbg=red       cterm=N
 hi FoldColumn                    ctermfg=0             ctermbg=NONE
 hi Folded                        ctermfg=8             ctermbg=234       cterm=NONE
 hi Function                      ctermfg=brown         ctermbg=NONE      cterm=NONE
-hi GitGutterAddDefault           ctermfg=2             ctermbg=NONE
-hi GitGutterChangeDefault        ctermfg=3             ctermbg=NONE
-hi GitGutterChangeDeleteDefault  ctermfg=130           ctermbg=NONE
-hi GitGutterChangeLineDefault    ctermfg=3             ctermbg=NONE
-hi GitGutterDeleteDefault        ctermfg=1             ctermbg=NONE
 hi Identifier                    ctermfg=cyan          ctermbg=NONE      cterm=NONE
 hi javaDocSeeTag                 ctermfg=darkgray      ctermbg=NONE      cterm=NONE
 hi javaDocSeeTag                 ctermfg=darkgray      ctermbg=NONE      cterm=NONE
