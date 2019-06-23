@@ -2,6 +2,7 @@ iabbrev SMSs                                      texts
 iabbrev Route53                                   Route 53
 iabbrev Nginx                                     NGINX
 iabbrev FIx                                       Fix
+iabbrev webserver                                 web server
 
 Abolish ad{e,a}qu{a,i}te                          adequate
 Abolish archetect{,ure}                           architect{}
