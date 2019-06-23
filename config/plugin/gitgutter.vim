@@ -13,4 +13,4 @@ autocmd ShellCmdPost     * GitGutterAll
 autocmd FileChangedShell * GitGutterAll
 autocmd InsertLeave      * GitGutterAll
 
-autocmd InsertLeave      * :so ~/.config/nvim/colors/gitgutter.vim
+autocmd InsertLeave      * source ~/.config/nvim/colors/gitgutter.vim
