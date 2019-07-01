@@ -321,3 +321,6 @@ kube_proxy
 etcd
 SIGKILL
 STOPSIGNAL
+misconfiguration
+unconfigured
+alert's
