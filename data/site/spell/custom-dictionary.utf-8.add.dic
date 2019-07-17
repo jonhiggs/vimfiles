@@ -307,6 +307,9 @@ ALB
 timezone
 Solr
 a.k.a.
+shutdown
+unconfigured
+unactionable
 sidecar
 netcat
 noop
