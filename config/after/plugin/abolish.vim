@@ -16,9 +16,9 @@ Abolish g{au,a,u}rantee{,s,d}                     g{ua}rantee{}
 Abolish immediatly                                immediately
 Abolish infrustructure                            infrastructure
 Abolish josn                                      json
-Abolish ne{c,cc,s,ss}{e,a,i,o}{c,s}ity            necessity
-Abolish ne{c,cc,s,ss}{e,a,i,o}{c,s}{e,a}{r,rr}y   necessary
-Abolish ne{c,cc,s,ss}{e,a,i,o}{c,s}{e,a}{r,rr}{,i,a}{l,ll}y necessarily
+Abolish ne{c,cc,s,ss}{e,a,i,o}{c,s,cc,ss}ity            necessity
+Abolish ne{c,cc,s,ss}{e,a,i,o}{c,s,cc,ss}{e,a}{r,rr}y   necessary
+Abolish ne{c,cc,s,ss}{e,a,i,o}{c,s,cc,ss}{e,a}{r,rr}{,i,a}{l,ll}y necessarily
 Abolish pl{ea,e}s{e,a}nt                          pleasant
 Abolish reprosent{,ation,s,ed}                    represent{}
 Abolish sate                                      state
@@ -29,7 +29,7 @@ Abolish slef                                      self
 Abolish teh                                       the
 Abolish termiante                                 terminate
 Abolish tryed                                     tried
-Abolish unne{c,cc,s,ss}{e,a,i,o}{c,s}{e,a}{r,rr}y unnecessary
+Abolish unne{c,cc,s,ss}{e,a,i,o}{c,s,cc,ss}{e,a}{r,rr}y unnecessary
 Abolish useable                                   usable         " see https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences#Dropped_e
 Abolish wrok{,er,s,ing}                           work{}
 Abolish {deliberat,fortunat}ly                    {}ely
