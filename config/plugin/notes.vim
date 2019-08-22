@@ -1,5 +1,5 @@
 let g:notes_directories = ['~/Dropbox/docs/notes']
-let g:notes_new_note_template = '/Users/jonhiggs/etc/vimfiles/config/misc/notes/new_note'
+let g:notes_new_note_template = '/home/jon/.local/src/vimfiles/config/misc/notes/new_note'
 let g:notes_title_sync = 'no'
 
 hi link notesTitle Type
