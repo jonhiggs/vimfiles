@@ -22,6 +22,7 @@ Abolish ne{c,cc,s,ss}{e,a,i,o}{c,s,cc,ss}{e,a}{r,rr}y   necessary
 Abolish ne{c,cc,s,ss}{e,a,i,o}{c,s,cc,ss}{e,a}{r,rr}{,i,a}{l,ll}y necessarily
 Abolish occured                                   occurred
 Abolish pl{ea,e}s{e,a}nt                          pleasant
+Abolish relevent                                  relevant
 Abolish reprosent{,ation,s,ed}                    represent{}
 Abolish scenerio                                  scenario
 Abolish se                                        see
