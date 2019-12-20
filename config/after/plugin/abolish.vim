@@ -13,6 +13,7 @@ Abolish criterias                                             criterion
 Abolish crutial                                               crucial
 Abolish depend{a}{ncy,ant,ent}                                depend{e}{}
 Abolish eleg{e}nt{,ly}                                        eleg{a}nt{}
+Abolish entire{ll}y                                           entire{l}y
 Abolish g{au,a,u}rantee{,s,d}                                 g{ua}rantee{}
 Abolish infr{u}structure                                      infr{a}structure
 Abolish josn                                                  json
