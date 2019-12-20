@@ -7,6 +7,7 @@ setlocal spell
 setlocal tabstop=4
 setlocal wrap
 setlocal formatoptions=a2tq
+setlocal nojoinspaces
 
 " use yaml syntax at the start of Jekyll markdown.
 let g:vim_markdown_frontmatter=1
