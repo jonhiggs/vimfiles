@@ -328,9 +328,9 @@ Genty
 Trello
 Georg
 Subnetting
-SLIs
-you
-SLOs
+configMaps
+configMap
+SHA
 SLO
 POS
 SNR
@@ -338,4 +338,10 @@ SNR
 5xx
 Apdex
 SLI
+SLIs
+SNR
+EFTPOS
+POS
+SLOs
+CI
 Instagram
