@@ -1,4 +1,8 @@
 2FA
+2xx
+3xx
+4xx
+5xx
 95th
 A.K.A.
 a.k.a.
@@ -15,6 +19,7 @@ AMIs
 AMQP
 Ansible
 anymore
+Apdex
 API/S
 APK/S
 app's
@@ -38,7 +43,8 @@ can just/!
 CardDAV
 catchall
 CDN
-CIDRs
+CI
+CIDR/S
 Circonus
 CLI
 Cloudability
@@ -51,6 +57,7 @@ CNAME/S
 codebase
 Cognito
 config/S
+configMap/S
 cron
 cruft
 CSS
@@ -74,6 +81,7 @@ docstring/S
 DSL
 DynamoDB
 EC2
+EFTPOS
 ElastiCache
 ELB/S
 Emacs
@@ -104,8 +112,10 @@ ftplugin/=
 geek
 geeking
 genericity
+Genty
 GeoIP
 geolocation
+Georg
 GitHub
 Gmail
 Golang
@@ -133,6 +143,7 @@ implement/AS
 incentisised
 incure
 init
+Instagram
 internet
 IP
 iPhone
@@ -208,8 +219,10 @@ Pingdom
 plaintext
 Playbook
 plugin/S
+POS
 POSIX
 PPI
+preemptively
 preStop
 proactively
 quarm
@@ -246,15 +259,19 @@ SendGrid
 Sendmail
 Serverless
 setup
+SHA
 sharded
 Shoryuken
 shutdown
 sidecar
 SIGKILL
 Sitemap
+SLI/S
+SLO/S
 smartphone/S
 SMS
 SNI
+SNR
 SNS
 Solr
 spec/S
@@ -269,6 +286,7 @@ stdin
 STOPSIGNAL
 subdomain/S
 submodule/S
+Subnetting
 subscribable
 Swype
 symlink/S
@@ -288,6 +306,7 @@ tmux/=
 to just/!
 toted
 Traefik
+Trello
 TTL
 UDP
 UI
@@ -323,25 +342,3 @@ YAML
 you just/!
 Z3c
 zig-zagging
-preemptively
-Genty
-Trello
-Georg
-Subnetting
-configMaps
-configMap
-SHA
-SLO
-POS
-SNR
-2xx
-5xx
-Apdex
-SLI
-SLIs
-SNR
-EFTPOS
-POS
-SLOs
-CI
-Instagram
