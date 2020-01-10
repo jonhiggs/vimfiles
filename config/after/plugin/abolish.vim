@@ -17,6 +17,7 @@ Abolish entire{ll}y                                           entire{l}y
 Abolish g{au,a,u}rantee{,s,d}                                 g{ua}rantee{}
 Abolish infr{u}structure                                      infr{a}structure
 Abolish josn                                                  json
+Abolish fulfill                                               fulfil            " see https://www.grammarly.com/blog/fulfil-fulfill/
 Abolish pl{ea,e}s{e,a}nt{,ly}                                 pl{ea}s{a}nt{}
 Abolish popul{u}rised                                         popul{a}rised
 Abolish repr{o}sent{,ation,s,ed}                              repr{e}sent{}
