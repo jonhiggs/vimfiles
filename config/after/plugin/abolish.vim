@@ -1,7 +1,8 @@
-iabbrev SMSs                                                  texts
-iabbrev Route53                                               Route 53
-iabbrev Nginx                                                 NGINX
+iabbrev Cloudformation                                        CloudFormation
 iabbrev FIx                                                   Fix
+iabbrev Nginx                                                 NGINX
+iabbrev Route53                                               Route 53
+iabbrev SMSs                                                  texts
 iabbrev webserver                                             web server
 
 Abolish ad{e,a}qu{a,i}te                                      adequate
@@ -14,10 +15,11 @@ Abolish crutial                                               crucial
 Abolish depend{a}{ncy,ant,ent}                                depend{e}{}
 Abolish eleg{e}nt{,ly}                                        eleg{a}nt{}
 Abolish entire{ll}y                                           entire{l}y
+Abolish fulfill                                               fulfil            " see https://www.grammarly.com/blog/fulfil-fulfill/
 Abolish g{au,a,u}rantee{,s,d}                                 g{ua}rantee{}
 Abolish infr{u}structure                                      infr{a}structure
 Abolish josn                                                  json
-Abolish fulfill                                               fulfil            " see https://www.grammarly.com/blog/fulfil-fulfill/
+Abolish platfrom{,s}                                          platform{}
 Abolish pl{ea,e}s{e,a}nt{,ly}                                 pl{ea}s{a}nt{}
 Abolish popul{u}rised                                         popul{a}rised
 Abolish repr{o}sent{,ation,s,ed}                              repr{e}sent{}
