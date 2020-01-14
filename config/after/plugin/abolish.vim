@@ -23,6 +23,7 @@ Abolish platfrom{,s}                                          platform{}
 Abolish pl{ea,e}s{e,a}nt{,ly}                                 pl{ea}s{a}nt{}
 Abolish popul{u}rised                                         popul{a}rised
 Abolish repr{o}sent{,ation,s,ed}                              repr{e}sent{}
+Abolish responce                                              response
 Abolish scen{e}rio                                            scen{a}rio
 Abolish sep{a,e}rat{e,ely,ed,ing,ion,or}                      sep{a}rat{}
 Abolish s{e}                                                  s{ee}
