@@ -24,8 +24,8 @@ map <F3> :setlocal spell! spell?<CR>
 map Z 1z=
 
 " Fix previous misspelled word with your best guess
-inoremap <C-s>    <Esc>[s1z=<C-o>a
-noremap  <C-s>    [s1z=<C-o>
+inoremap <C-s>    <Esc>[s1z=``a
+noremap  <C-s>    [s1z=``
 
 
 " SOME SHORTCUTS I'M GOING TO FORGET.
