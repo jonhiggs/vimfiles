@@ -9,6 +9,7 @@ Abolish ad{e,a}qu{a,i}te                                      adequate
 Abolish anom{o}ly                                             anom{a}ly
 Abolish archetect{,ure}                                       architect{}
 Abolish behavour{,s}                                          behaviour{}
+Abolish contineous{,ly}                                       continuous{}
 Abolish credentail{,s}                                        credential{}
 Abolish criterias                                             criterion
 Abolish crutial                                               crucial
