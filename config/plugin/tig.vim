@@ -1,1 +1,1 @@
-map <C-G> :!${HOME}/.local/bin2/tig_selector %<CR><CR>
+map <C-G> :!tig_selector %<CR><CR>
