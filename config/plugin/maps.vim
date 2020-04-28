@@ -25,6 +25,11 @@ nmap <silent> <Backspace> :wincmd h<CR>
 set pastetoggle=<F1>
 autocmd InsertLeave * :set nopaste
 
+"" for some reason, lines are getting droped in the middle of lines. This
+"" fixes the behaviour.
+nmap p :put<CR>
+nmap P :put!<CR>
+
 " Search Highlighting
 map <F2> :set hlsearch!<CR>
 autocmd InsertEnter * :set nohlsearch
