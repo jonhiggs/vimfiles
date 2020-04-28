@@ -37,8 +37,6 @@ Plugin 'tmhedberg/SimpylFold'
 Plugin 'tpope/vim-abolish'
 Plugin 'tpope/vim-surround'
 Plugin 'vim-ruby/vim-ruby'
-Plugin 'xolox/vim-misc'
-Plugin 'xolox/vim-notes'
 Plugin 'z0mbix/vim-shfmt'
 
 call vundle#end()
