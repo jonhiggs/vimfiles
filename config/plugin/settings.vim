@@ -1,6 +1,5 @@
 set backspace=indent,eol,start  " allow backspace to delete before insert point.
 set colorcolumn=80
-set clipboard+=unnamedplus
 set expandtab
 set list
 set listchars=tab:▶\ ,eol:\     " configure the invisible characters.
