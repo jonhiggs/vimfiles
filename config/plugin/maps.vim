@@ -37,6 +37,3 @@ map <F10> "dyiw:call MacDict(@d)<CR>
 
 " Goyo
 map <F12> :Goyo<CR>:GitGutterEnable<CR>
-
-" Save with esc in command mode
-nnoremap <Esc> :w<CR>
