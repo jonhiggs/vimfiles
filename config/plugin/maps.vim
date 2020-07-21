@@ -29,8 +29,13 @@ autocmd InsertLeave * :set nopaste
 map <F2> :set hlsearch!<CR>
 autocmd InsertEnter * :set nohlsearch
 
+map <F3> :setlocal spell! spell?<CR>
+
+
 " Redraw Screen
 map <F5> :GitGutterAll<CR>:so ~/.config/nvim/colors/gitgutter.vim<CR>:redraw!<CR>:echom expand('%:p')<CR><CR>
+
+map <F7> :tabe ~/.local/src/vimfiles/config/after/plugin/abolish.vim<CR>
 
 " MacDict
 map <F10> "dyiw:call MacDict(@d)<CR>

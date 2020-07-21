@@ -18,8 +18,6 @@ set complete+=t         " tags
 set complete+=i         " included files
 set complete+=k         " dictionaries
 
-map <F3> :setlocal spell! spell?<CR>
-
 " fix current word with first spelling suggestion.
 map Z 1z=
 
