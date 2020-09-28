@@ -5,7 +5,9 @@ iabbrev Route53                                               Route 53
 iabbrev SMSs                                                  texts
 iabbrev webserver                                             web server
 
+Abolish adver{}sly                                            advers{e}ly
 Abolish agressive                                             aggressive
+Abolish alternativ{a}{l,ll}y                                  alternativ{e}{l}y
 Abolish anom{o}ly                                             anom{a}ly
 Abolish archetect{,ure}                                       architect{}
 Abolish behavour{,s}                                          behaviour{}
@@ -19,20 +21,25 @@ Abolish crutial                                               crucial
 Abolish depend{a}{ncy,ant,ent}                                depend{e}{}
 Abolish deployement                                           deployment
 Abolish discrepency                                           discrepancy
+Abolish d{e}screte                                            d{i}screte
 Abolish eleg{e}nt{,ly}                                        eleg{a}nt{}
 Abolish entire{ll}y                                           entire{l}y
 Abolish favorite                                              favourite
 Abolish fidality                                              fidelity
 Abolish fulfill                                               fulfil            " see https://www.grammarly.com/blog/fulfil-fulfill/
+Abolish functional{l}ity                                      functional{,}ity
 Abolish g{au,a,u}rantee{,s,d}                                 g{ua}rantee{}
 Abolish infr{u}structure                                      infr{a}structure
 Abolish josn                                                  json
+Abolish offical                                               official
 Abolish oppertun{it,ti}es                                     opportunities
 Abolish platfrom{,s}                                          platform{}
 Abolish pl{ea,e}s{e,a}nt{,ly}                                 pl{ea}s{a}nt{}
 Abolish popul{u}rised                                         popul{a}rised
 Abolish preceed{,ing}                                         preced{e,ing}
+Abolish p{u}rsuaded                                           p{e}rsuaded
 Abolish recient{ly}                                           recent{}
+Abolish recognitation                                         recognition
 Abolish repr{o}sent{,ation,s,ed}                              repr{e}sent{}
 Abolish responce                                              response
 Abolish routeen{,ly}                                          routine{}
@@ -48,12 +55,13 @@ Abolish tryed                                                 tried
 Abolish t{eh}                                                 t{he}
 Abolish us{e}able                                             us{,}able         " see https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences#Dropped_e
 Abolish w{ro}k{,er,s,ing}                                     w{or}k{}
-
+Abolish se{e}mless                                            se{a}mless
 Abolish {e,a}leviate{,d}                                      {a}lleviate{}
 Abolish {,i,ir}relevent                                       {,ir,ir}relevant
 Abolish {,in}ad{e,a}qu{a,i}te                                 {}ad{e}qu{a}te
 Abolish {,in}effecien{cy,t}                                   {}efficien{}
 Abolish {,in}visib{ile}                                       {}visib{le}
 Abolish {,re}oc{,c}ur{,e,r}{,ing,ed,s}                        {}oc{c}ur{,}{,ring,red,s}
-Abolish {,un}ne{c,cc,s,ss}{a,e,i,o}{c,s,cc,ss}{arily,ary,ity} {}ne{c}{e}{ss}{}
+Abolish {,un}ne{c,cc,s,ss}{a,e,i,o}{c,s,cc,ss}{a,i}{r,rr}{i,a}{l,ll}y {}ne{c}{e}{ss}{a}{r}{i}{l}y
+
 Abolish {deliberat,fortunat,immediat}ly                       {}ely
