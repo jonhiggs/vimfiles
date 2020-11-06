@@ -9,6 +9,7 @@ call vundle#begin()
 Plugin 'gmarik/Vundle.vim'
 
 Plugin 'airblade/vim-gitgutter'
+Plugin 'aklt/plantuml-syntax'
 Plugin 'bigbrozer/vim-nagios'
 Plugin 'cespare/vim-toml'
 Plugin 'chr4/nginx.vim'
