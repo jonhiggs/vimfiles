@@ -9,6 +9,8 @@ setlocal wrap
 setlocal formatoptions=a2tq
 setlocal nojoinspaces
 
+call Stylish()
+
 " use yaml syntax at the start of Jekyll markdown.
 let g:vim_markdown_frontmatter=1
 
