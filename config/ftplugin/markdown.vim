@@ -20,7 +20,7 @@ let g:vim_markdown_new_list_item_indent = 0
 
 PencilSoft
 
-autocmd BufWritePost *.md silent execute '!md2html % /tmp/vim.html; scp /tmp/vim.html mac:/tmp/vim.html'
+"autocmd BufWritePost *.md silent execute '!md2html % /tmp/vim.html; scp /tmp/vim.html mac:/tmp/vim.html'
 
 " don't collapse links
 set conceallevel=0
