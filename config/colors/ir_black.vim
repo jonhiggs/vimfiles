@@ -59,7 +59,7 @@ hi TabLine                       ctermfg=242           ctermbg=234       cterm=N
 hi TabLineFill                   ctermfg=234           ctermbg=234       cterm=NONE
 hi TabLineSel                    ctermfg=15            ctermbg=25        cterm=NONE
 hi Title                         ctermfg=15            ctermbg=NONE      cterm=underline
-hi Todo                          ctermfg=red           ctermbg=NONE      cterm=NONE
+hi Todo                          ctermfg=white         ctermbg=52        cterm=NONE
 hi Type                          ctermfg=yellow        ctermbg=NONE      cterm=NONE
 hi UnwantedTrailerTrash          ctermbg=52
 hi VertSplit                     ctermfg=darkgray      ctermbg=NONE      cterm=NONE
