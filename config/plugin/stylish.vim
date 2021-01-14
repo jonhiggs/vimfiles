@@ -11,6 +11,7 @@ function! Stylish()
   iabbrev <buffer> ^^8   ⁸
   iabbrev <buffer> ^^9   ⁹
   iabbrev <buffer> ^^-   —
+  iabbrev <buffer> --    —
   iabbrev <buffer> ^^e   …
   iabbrev <buffer> <1/2> ½
   iabbrev <buffer> <1/4> ¼
@@ -35,6 +36,7 @@ function! UnStylish()
   iunabbrev <buffer> ^^8
   iunabbrev <buffer> ^^9
   iunabbrev <buffer> ^^-
+  iunabbrev <buffer> --
   iunabbrev <buffer> ^^e
   iunabbrev <buffer> <1/2>
   iunabbrev <buffer> <1/4>
