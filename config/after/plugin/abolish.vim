@@ -63,5 +63,6 @@ Abolish {,in}effecien{cy,t}                                   {}efficien{}
 Abolish {,in}visib{ile}                                       {}visib{le}
 Abolish {,re}oc{,c}ur{,e,r}{,ing,ed,s}                        {}oc{c}ur{,}{,ring,red,s}
 Abolish {,un}ne{c,cc,s,ss}{a,e,i,o}{c,s,cc,ss}{a,i}{r,rr}{i,a}{l,ll}y {}ne{c}{e}{ss}{a}{r}{i}{l}y
+Abolish {,un}ne{c,cc,s,ss}{a,e,i,o}{c,s,cc,ss}{a,i}{r,rr}y    {}ne{c}{e}{ss}{a}{r}y
 
 Abolish {deliberat,fortunat,immediat}ly                       {}ely
