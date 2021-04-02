@@ -21,24 +21,24 @@ nmap <silent> <C-l> :wincmd l<CR>
 " <C-h> is mapped to backspace on ML62. Add a fix in.
 nmap <silent> <Backspace> :wincmd h<CR>
 
-" Paste
+" Toggle Paste
 set pastetoggle=<F1>
 autocmd InsertLeave * :set nopaste
 
-" Search Highlighting
+" Toggle Search Highlighting
 map <F2> :set hlsearch!<CR>
 autocmd InsertEnter * :set nohlsearch
 
+" Toggle Spell Highlighting
 map <F3> :setlocal spell! spell?<CR>
 
-
 " Redraw Screen
-map <F5> :GitGutterAll<CR>:so ~/.config/nvim/colors/gitgutter.vim<CR>:redraw!<CR>:echom expand('%:p')<CR><CR>
+map <F5> :GitGutterAll<CR>:so ~/.config/nvim/colors/gitgutter.vim<CR>:redraw!<CR>:echom expand('%:p')<CR>
 
 map <F7> :tabe ~/.local/src/vimfiles/config/after/plugin/abolish.vim<CR>
 
-" MacDict
-map <F10> "dyiw:call MacDict(@d)<CR>
+" Quit
+map <F10> :q<CR>
 
 " Goyo
 map <F12> :Goyo<CR>:GitGutterEnable<CR>

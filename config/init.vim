@@ -38,6 +38,7 @@ Plugin 'tmhedberg/SimpylFold'
 Plugin 'tpope/vim-abolish'
 Plugin 'tpope/vim-surround'
 Plugin 'vim-ruby/vim-ruby'
+Plugin 'whiteinge/diffconflicts'
 Plugin 'z0mbix/vim-shfmt'
 Plugin 'https://tildegit.org/sloum/gemini-vim-syntax'
 

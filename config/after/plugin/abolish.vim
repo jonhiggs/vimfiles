@@ -46,6 +46,7 @@ Abolish routeen{,ly}                                          routine{}
 Abolish scen{e}rio                                            scen{a}rio
 Abolish sep{a,e}rat{e,ely,ed,ing,ion,or}                      sep{a}rat{}
 Abolish sep{a,e}rat{ly}                                       sep{a}rat{ely}
+Abolish strangly                                              strangely
 Abolish therefor                                              therefore
 Abolish s{e}                                                  s{ee}
 Abolish s{le}f                                                s{el}f
