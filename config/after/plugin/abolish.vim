@@ -28,6 +28,7 @@ Abolish favorite                                              favourite
 Abolish fidality                                              fidelity
 Abolish fulfill                                               fulfil            " see https://www.grammarly.com/blog/fulfil-fulfill/
 Abolish functional{l}ity                                      functional{,}ity
+Abolish guage                                                 gauge
 Abolish g{au,a,u}rantee{,s,d}                                 g{ua}rantee{}
 Abolish infr{u}structure                                      infr{a}structure
 Abolish josn                                                  json
@@ -47,10 +48,10 @@ Abolish scen{e}rio                                            scen{a}rio
 Abolish sep{a,e}rat{e,ely,ed,ing,ion,or}                      sep{a}rat{}
 Abolish sep{a,e}rat{ly}                                       sep{a}rat{ely}
 Abolish strangly                                              strangely
-Abolish therefor                                              therefore
 Abolish s{e}                                                  s{ee}
 Abolish s{le}f                                                s{el}f
 Abolish term{ia}nt{e,ing,ed}                                  term{i}nat{}
+Abolish therefor                                              therefore
 Abolish tol{erat,lerat,arat,larat}{e,ed}                      tol{erat}{}
 Abolish tryed                                                 tried
 Abolish t{eh}                                                 t{he}

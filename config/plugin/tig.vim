@@ -1,1 +1,1 @@
-map <C-G> :!tig_selector %<CR><CR>
+map <C-G> :!${HOME}/src/scripts/tmux/tig %<CR><CR>
