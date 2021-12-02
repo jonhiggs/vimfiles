@@ -1,5 +1,8 @@
-hi GitGutterAddDefault           ctermfg=2             ctermbg=NONE
-hi GitGutterChangeDefault        ctermfg=3             ctermbg=NONE
-hi GitGutterChangeDeleteDefault  ctermfg=130           ctermbg=NONE
-hi GitGutterChangeLineDefault    ctermfg=3             ctermbg=NONE
-hi GitGutterDeleteDefault        ctermfg=1             ctermbg=NONE
+hi GitGutterAdd                  ctermfg=2        ctermbg=NONE   cterm=NONE
+hi GitGutterChange               ctermfg=3        ctermbg=NONE   cterm=NONE
+hi GitGutterDelete               ctermfg=1        ctermbg=NONE   cterm=NONE
+hi GitGutterChangeDelete         ctermfg=130      ctermbg=NONE   cterm=NONE
+hi GitGutterAddLineNr            ctermfg=2        ctermbg=NONE   cterm=NONE
+hi GitGutterChangeLineNr         ctermfg=3        ctermbg=NONE   cterm=NONE
+hi GitGutterDeleteLineNr         ctermfg=1        ctermbg=NONE   cterm=NONE
+hi GitGutterChangeDeleteLineNr   ctermfg=130      ctermbg=NONE   cterm=NONE
