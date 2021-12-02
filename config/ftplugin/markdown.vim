@@ -28,3 +28,5 @@ set conceallevel=0
 " FIXME: this is broken still
 syn region Todo start="^TODO:" end="^$"
 syn region Todo start="^FIXME:" end="$"
+
+map -- o<esc>0D3i-<esc>
