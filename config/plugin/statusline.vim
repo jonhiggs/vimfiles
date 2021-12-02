@@ -3,6 +3,6 @@ func! WorkingDir()
 endfunc
 
 set laststatus=2
-set statusline=
-set statusline+=%{WorkingDir()}
-set statusline+=%=%y
+set statusline=%{WorkingDir()}/%f\ %m
+set statusline+=%=
+set statusline+=\ %c
