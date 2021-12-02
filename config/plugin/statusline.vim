@@ -5,4 +5,5 @@ endfunc
 set laststatus=2
 set statusline=%{WorkingDir()}/%f\ %m
 set statusline+=%=
-set statusline+=\ %c
+set statusline+=[%l:%c]
+set statusline+=\ %y
