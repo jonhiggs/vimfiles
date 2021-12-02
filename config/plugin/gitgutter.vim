@@ -7,3 +7,6 @@ autocmd VimEnter         * GitGutterLineNrHighlightsEnable
 autocmd TextChanged      * GitGutterAll
 autocmd InsertLeave      * GitGutterAll
 autocmd InsertEnter      * GitGutterAll
+
+map <C-[> :GitGutterPrevHunk<CR>
+map <C-]> :GitGutterNextHunk<CR>
