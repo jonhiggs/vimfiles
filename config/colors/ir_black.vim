@@ -29,7 +29,7 @@ hi javaDocSeeTag                 ctermfg=darkgray      ctermbg=NONE      cterm=N
 hi Keyword                       ctermfg=blue          ctermbg=NONE      cterm=NONE
 hi LineNr                        ctermfg=237           ctermbg=NONE      cterm=NONE
 hi MatchParen                    ctermfg=white         ctermbg=darkgray  cterm=NONE
-hi ModeMsg                       ctermfg=black         ctermbg=cyan      cterm=BOLD
+hi ModeMsg                       ctermfg=242           ctermbg=NONE      cterm=NONE
 hi NonText                       ctermfg=235           ctermbg=NONE      cterm=NONE
 hi Normal                        ctermfg=NONE          ctermbg=NONE      cterm=NONE
 hi Number                        ctermfg=magenta       ctermbg=NONE      cterm=NONE
