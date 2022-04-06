@@ -5,6 +5,5 @@ function! s:find_git_root()
 endfunction
 
 command! ProjectFiles execute 'Files' s:find_git_root()
-nmap <C-t> :ProjectFiles<CR>
-
+nmap <C-t> :GFiles<CR>
 nmap <C-l> :Ag<CR>

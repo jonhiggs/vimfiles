@@ -33,5 +33,7 @@ autocmd InsertEnter * :set nohlsearch
 map <F3> :setlocal spell! spell?<CR>
 map <F7> :tabe ~/.local/src/vimfiles/config/after/plugin/abolish.vim<CR>
 
+map <F10> :q<CR>
+
 " Goyo
 map <F12> :Goyo<CR>:GitGutterEnable<CR>
