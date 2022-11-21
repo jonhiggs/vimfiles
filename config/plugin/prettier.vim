@@ -1,1 +1,1 @@
-autocmd InsertLeave      * Prettier
+"autocmd InsertLeave      * Prettier
