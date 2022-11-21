@@ -7,3 +7,5 @@ endfunction
 command! ProjectFiles execute 'Files' s:find_git_root()
 nmap <C-t> :GFiles<CR>
 nmap <C-l> :Ag<CR>
+
+map <C-b> :Buffers<CR>

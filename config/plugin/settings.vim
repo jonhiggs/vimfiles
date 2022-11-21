@@ -5,7 +5,7 @@ set list
 set listchars=tab:▶\ ,eol:\     " configure the invisible characters.
 set modeline                    " make sure the modeline is used if it exists.
 set mouse=a
-set nocursorline                " disabled because it makes keyboard repeat too slow.
+set nocursorline                " disabled because it makes keyboard repeat too slowly.
 set nofoldenable
 set nowrap
 set number
